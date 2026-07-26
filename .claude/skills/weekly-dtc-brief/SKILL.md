@@ -134,3 +134,15 @@ This is the mechanism for "always research more, but remember what we find" — 
 - Check `state.json` (in the project root) before including a source; skip anything already reported. Update `state.json` with this run's URLs before finishing.
 - Read the most recent 1–2 files in `archive/` for continuity before starting.
 - It's fine — expected, even — to come in under 10 Section 1 headlines or report "no news" in 1a if that's genuinely what this week has. Don't manufacture filler to hit a quota.
+
+## Persisting the run
+
+This project lives in a git repo specifically so state carries over between runs (especially cloud/scheduled runs, which get a fresh checkout each time). **After finishing the archive file, `state.json`, and `brands.json` updates, and publishing the Artifact:**
+
+```
+git add archive/ state.json brands.json
+git commit -m "Weekly brief: <date>"
+git push
+```
+
+If `git push` fails (e.g. no configured remote credentials in this environment), say so explicitly in your final summary rather than silently dropping the changes — persistence for next week depends on this step succeeding.
