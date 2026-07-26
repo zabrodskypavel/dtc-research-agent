@@ -148,7 +148,7 @@ This is the mechanism for "always research more, but remember what we find" — 
 This project lives in a git repo specifically so state carries over between runs (especially cloud/scheduled runs, which get a fresh checkout each time). **After finishing the archive file, `state.json`, and `brands.json` updates, and publishing the Artifact:**
 
 ```
-git add archive/ state.json brands.json
+git add archive/ state.json brands.json opinion_leaders.json
 git commit -m "Weekly brief: <date>"
 git push
 ```
