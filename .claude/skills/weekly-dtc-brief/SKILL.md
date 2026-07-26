@@ -51,6 +51,8 @@ Anchor brands — track these at minimum, but they're a starting point, not the 
 
 Beyond the anchors, actively scan for **other notable or emerging brands** making news this week in either category — the goal is a picture of the market, not just these names. If an anchor brand has no news this week, say so plainly ("no news this week") rather than padding with filler.
 
+**This scan is not optional and is not satisfied by whatever surfaces incidentally in the Section 1 sweep.** Every run, execute at least 2 dedicated discovery searches per category — one for each of human and pet supplements — aimed specifically at finding brands not already in `brands.json`. Rotate the angle run to run so it doesn't go stale (e.g. "new [pet/human] supplement brand launch [month year]", "emerging [category] brand funding [year]", "[category] supplement brand viral growth [year]", a specific subreddit search). If these searches turn up nothing new, say so explicitly ("ran discovery searches on X and Y, no new brands found") rather than silently omitting the step — the report should show the scan happened, not just its results.
+
 
 **Sourcing methodology (applies to all sections):** Start from trusted outlets first, then expand to secondary sources (Reddit, general search, aggregators) to fill gaps or corroborate. Don't let secondary/SEO content override what a trusted outlet or primary source already covered.
 
@@ -107,6 +109,8 @@ Check recent posts, newsletters, and podcast appearances (past 7 days) from — 
 - **Kurt Elster**
 
 Prefer primary sources (the person's own post or podcast episode) over secondhand recaps or aggregator summaries.
+
+**Do a real per-person check, not one generic name search.** A single "<name> news" query that comes back empty is not sufficient evidence someone had nothing to say this week — check their actual channel. For podcast hosts (Nik Sharma, Kurt Elster, and any others with a known show), check the podcast's own recent-episodes list directly, not just a name search — Limited Supply publishes weekly, so a "nothing found" result for Nik Sharma in a given week should be treated as a signal to check harder, not an answer. Report status **per person** in the notes (found + cited, or "checked <channel/platform>, nothing in-window"), not just an aggregate line for the whole list — this makes it visible when a check was shallow versus genuinely empty.
 
 ---
 
