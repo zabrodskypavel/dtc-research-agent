@@ -8,6 +8,7 @@ Core focus: human supplements and pet supplements. General DTC/ecommerce is in s
 - `archive/` — one Markdown file per week (`YYYY-MM-DD.md`), the permanent record of every digest ever produced. Read recent files here before starting a new run to avoid repeating last week's items.
 - `state.json` — links/items already reported. Check it before including a source; update it after each run.
 - `brands.json` — the accumulated library of every brand this project has profiled (human + pet supplements). Check it before researching a brand from scratch; update it after each run. See the skill for the exact protocol.
+- `opinion_leaders.json` — same idea, for the tracked opinion leaders and podcast guests (e.g. Limited Supply's guest log). Check it before researching a person from scratch; update it after each run.
 - `.claude/skills/weekly-dtc-brief/SKILL.md` — the full step-by-step research procedure (sections, sources, format, search budget). A weekly run should invoke `/weekly-dtc-brief`.
 
 ## Always true

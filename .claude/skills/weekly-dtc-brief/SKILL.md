@@ -112,6 +112,8 @@ Prefer primary sources (the person's own post or podcast episode) over secondhan
 
 **Do a real per-person check, not one generic name search.** A single "<name> news" query that comes back empty is not sufficient evidence someone had nothing to say this week — check their actual channel. For podcast hosts (Nik Sharma, Kurt Elster, and any others with a known show), check the podcast's own recent-episodes list directly, not just a name search — Limited Supply publishes weekly, so a "nothing found" result for Nik Sharma in a given week should be treated as a signal to check harder, not an answer. Report status **per person** in the notes (found + cited, or "checked <channel/platform>, nothing in-window"), not just an aggregate line for the whole list — this makes it visible when a check was shallow versus genuinely empty.
 
+**`opinion_leaders.json`** (project root) is the library for this — same pattern as `brands.json`. Read it first: it has each person's known channels/podcast, `last_checked`, and running notes, so you're not rediscovering someone's platform from scratch every week. Nik Sharma and Moiz Ali specifically **co-host Limited Supply** — checking that one podcast's recent-episodes list covers both of them, don't search them separately. Guests on Limited Supply are logged in `_limited_supply_guest_log`; treat notable new guests as individual research leads (per the Objective above), and append newly found guests to that log with episode/date. After the run, bump `last_checked` for every person touched, same discipline as the brand library.
+
 ---
 
 ## Brand Library

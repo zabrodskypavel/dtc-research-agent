@@ -1,0 +1,75 @@
+{
+  "_meta": {
+    "purpose": "Mirrors brands.json — a growing library so opinion-leader research doesn't restart from zero every week. Check this before researching; update it after every run.",
+    "last_checked": "2026-07-26"
+  },
+  "Nik Sharma": {
+    "role": "Founder, Sharma Brands. Co-hosts Limited Supply.",
+    "channels": {
+      "podcast": "Limited Supply — weekly, new episodes Wednesdays (Apple Podcasts, Spotify, YouTube)",
+      "x": "not yet catalogued"
+    },
+    "last_checked": "2026-07-26",
+    "notes": "Co-host confirmed alongside Moiz Ali (see below) — per rephonic.com/podchaser research 2026-07-26. Checking Limited Supply's recent-episodes list covers both of them at once; don't treat them as two independent searches."
+  },
+  "Moiz Ali": {
+    "role": "Founder, Native Deodorant (sold to P&G). Co-hosts Limited Supply alongside Nik Sharma.",
+    "channels": {
+      "podcast": "Limited Supply (co-host — see Nik Sharma entry)"
+    },
+    "last_checked": "2026-07-26",
+    "notes": "DISAMBIGUATION: a same-named Pakistani entrepreneur (Streamlabs/Stonks founder, sometimes 'Ali Moiz') dominates generic name search — always anchor queries with 'Native Deodorant' or 'Limited Supply'."
+  },
+  "Cody Plofker": {
+    "role": "Board member, Jones Road Beauty (stepped down as CEO ~Jul 7, 2026).",
+    "channels": {},
+    "last_checked": "2026-07-26",
+    "notes": "Jones Road CEO exit already reported (background, outside window as of 2026-07-26 run). Watch for his next move — he said he wants to go back to hands-on marketing work."
+  },
+  "Dara Denney": {
+    "role": "Performance creative consultant / DTC advertising commentator.",
+    "channels": {
+      "youtube": "youtube.com/@DaraDenney",
+      "tiktok": "@daradenney"
+    },
+    "last_checked": "2026-07-26",
+    "notes": "Not yet checked in a live run — no findings logged."
+  },
+  "Andrew Youderian": {
+    "role": "Founder, eComFuel (ecommerce operator community).",
+    "channels": {
+      "podcast": "eComFuel Podcast"
+    },
+    "last_checked": "2026-07-26",
+    "notes": "Publishes an annual Ecommerce Trends Report (2026 edition already covered in prior research). Not yet checked for weekly cadence content."
+  },
+  "Harley Finkelstein": {
+    "role": "President, Shopify.",
+    "channels": {
+      "x": "@harleyf"
+    },
+    "last_checked": "2026-07-26",
+    "notes": "Frequent media presence (CNBC, NRF) — high hit-rate person, worth checking every run given Shopify overlap with Section 3."
+  },
+  "Kurt Elster": {
+    "role": "Founder, Ethercycle. Hosts The Unofficial Shopify Podcast.",
+    "channels": {
+      "podcast": "The Unofficial Shopify Podcast"
+    },
+    "last_checked": "2026-07-26",
+    "notes": "Confirmed hit in 2026-07-26 run: Jul 21 episode featuring Shopify's Sachin Malhotra on 'Campaign Autopilot' — used in Section 3."
+  },
+  "_limited_supply_guest_log": [
+    { "guest": "Dylan Ander", "affiliation": "Heatmap.com", "episode": "How Brands Are Building Creator Armies Right Now (Live from Social Commerce Summit NYC)", "date": "2026-07-22" },
+    { "guest": "Alexis Katz-O-Fanis", "affiliation": "Unilever Prestige", "episode": "S16 E10: Practical AI for Brands", "date": "2026-06-17" },
+    { "guest": "Brian Kano", "affiliation": "True Classic", "episode": "S16 E10: Practical AI for Brands", "date": "2026-06-17" },
+    { "guest": "Liam Millward", "affiliation": "Instant (co-founder/CEO)", "episode": "S16 E9: Why DTC Brands Need AI-Driven Personalization", "date": "2026-05-27" },
+    { "guest": "Joseph Siegel", "affiliation": "Retention expert, former Feastables", "episode": "S16 E8: Your Retention Strategy Is Probably Broken", "date": "2026-05-20" },
+    { "guest": "Vinay Sridhar", "affiliation": "Reddit, Inc.", "episode": "S16 E7: How Brands Are Winning on Reddit Right Now", "date": "2026-05-13" },
+    { "guest": "John Coyle", "affiliation": "unconfirmed", "episode": "S16 E5: What $100M E-Commerce Brands Know That The Others Don't", "date": "unconfirmed, ~2026-04" },
+    { "guest": "David Perell", "affiliation": "Write of Passage", "episode": "S16 E3: The Step by Step DTC Build Playbook", "date": "unconfirmed, ~2026-04" },
+    { "guest": "Jeff Katz", "affiliation": "Roku Ads Manager", "episode": "S15 E11: How TV is Working for DTC Brands", "date": "unconfirmed, earlier 2026" },
+    { "guest": "Ian Myers", "affiliation": "Oceans (founder/CEO)", "episode": "S15 E4: How Brands Are Building Better Teams", "date": "unconfirmed, earlier 2026" }
+  ],
+  "_source_note": "Guest log seeded 2026-07-26 via listennotes.com and rephonic.com. ~186 total episodes exist over 4 years — this is recent history only, not a full archive. Update this log incrementally each run rather than re-deriving it."
+}
