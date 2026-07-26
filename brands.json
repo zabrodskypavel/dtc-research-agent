@@ -27,7 +27,8 @@
       { "date": "2026-04-14", "fact": "Partnered with Vitamin Angels, committing to impact 400,000 mothers/children in year one against malnutrition.", "source": "https://www.globenewswire.com/news-release/2026/04/14/3273281/0/en/prenetics-im8-health-partners-with-vitamin-angels-to-combat-global-malnutrition-commits-to-impacting-400-000-mothers-and-children-in-year-one.html" },
       { "date": "2026-05-07", "fact": "Named exclusive Official Health Supplements Partner of Inter Miami CF (multi-year).", "source": "https://www.globenewswire.com/news-release/2026/05/07/3290010/0/en/Prenetics-IM8-Named-Exclusive-Health-Supplements-Partner-of-Inter-Miami-CF-in-Multi-Year-Partnership.html" },
       { "date": "2026-06-30", "fact": "Preliminary unaudited monthly revenue ~$17M in June; FY2026 revenue guidance raised to $210-220M.", "source": "https://techcrunch.com/2026/07/14/david-beckhams-health-drink-startup-im8-takes-1b-from-general-catalysts-unusual-cvf-fund/" },
-      { "date": "2026-07-14", "fact": "Parent Prenetics closed $1B in growth financing from General Catalyst's Customer Value Fund.", "source": "https://techcrunch.com/2026/07/14/david-beckhams-health-drink-startup-im8-takes-1b-from-general-catalysts-unusual-cvf-fund/" }
+      { "date": "2026-07-14", "fact": "Parent Prenetics closed $1B in growth financing from General Catalyst's Customer Value Fund.", "source": "https://techcrunch.com/2026/07/14/david-beckhams-health-drink-startup-im8-takes-1b-from-general-catalysts-unusual-cvf-fund/" },
+      { "date": "2026-07-19", "fact": "Prenetics separately projects IM8 reaching ~$300M in annualized run-rate revenue by year-end 2026 and >$400M full-year revenue in 2027.", "source": "https://www.nutritioninsight.com/news/david-beckham-im8-longevity-supplements-prenetics.html" }
     ],
     "geography": "UK/Hong Kong origin (Prenetics), US expansion",
     "sources": [
@@ -216,6 +217,52 @@
     "geography": "UK",
     "sources": [
       "https://www.petfoodindustry.com/pet-food-market/product-launches/news/15829789/prefera-pet-food-uk-launches-bound-liquid-supplements"
+    ]
+  },
+  "Create Wellness": {
+    "display_name": "Create Wellness",
+    "category": "human",
+    "status": "discovered",
+    "first_seen": "2026-07-26",
+    "last_checked": "2026-07-26",
+    "profile": "Creatine-focused human supplement brand.",
+    "key_facts": [
+      { "date": "2026-03-30", "fact": "Raised $20M Series B (Alliance Consumer Growth, Impact Capital) to expand retail presence and creatine-supplement marketing.", "source": "https://www.nutraingredients.com/Article/2026/03/30/create-raises-20m-in-series-b-to-expand-creatine-access-and-innovation/" }
+    ],
+    "geography": "US",
+    "sources": [
+      "https://www.nutraingredients.com/Article/2026/03/30/create-raises-20m-in-series-b-to-expand-creatine-access-and-innovation/"
+    ]
+  },
+  "Happy V": {
+    "display_name": "Happy V",
+    "category": "human",
+    "status": "discovered",
+    "first_seen": "2026-07-26",
+    "last_checked": "2026-07-26",
+    "profile": "Founder-led women's health probiotics brand; broke out via organic TikTok virality.",
+    "key_facts": [
+      { "date": "2026-02-12", "fact": "500,000+ customers served, $20M+ in sales attributed to a viral TikTok video about bacterial vaginosis.", "source": "https://www.mediapost.com/publications/article/412754/how-a-viral-tiktok-video-launched-a-womens-health.html" }
+    ],
+    "geography": "US",
+    "sources": [
+      "https://www.mediapost.com/publications/article/412754/how-a-viral-tiktok-video-launched-a-womens-health.html"
+    ]
+  },
+  "Plant People": {
+    "display_name": "Plant People",
+    "category": "human",
+    "status": "discovered",
+    "first_seen": "2026-07-26",
+    "last_checked": "2026-07-26",
+    "profile": "Adaptogen/mushroom functional gummy brand; bootstrapped and profitable for 7 years before taking outside capital.",
+    "key_facts": [
+      { "date": "2025-11", "fact": "Took its first institutional capital — a minority-stake investment from PE firm Manna Tree, with Unilever Ventures participating.", "source": "https://www.prnewswire.com/news-releases/manna-tree-invests-in-plant-people-a-leading-functional-wellness-brand-302611813.html" },
+      { "date": "2026-01-06", "fact": "CEO outlined growth strategy following the Manna Tree minority investment.", "source": "https://www.nutraingredients.com/Article/2026/01/06/plant-people-ceo-outlines-growth-strategy-following-manna-tree-minority-investment/" }
+    ],
+    "geography": "US",
+    "sources": [
+      "https://www.prnewswire.com/news-releases/manna-tree-invests-in-plant-people-a-leading-functional-wellness-brand-302611813.html"
     ]
   }
 }
