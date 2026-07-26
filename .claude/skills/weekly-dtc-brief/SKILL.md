@@ -8,6 +8,8 @@ description: Produce the weekly Supplements & DTC research brief (human suppleme
 ## Objective
 Research and compile a weekly brief covering news, trends, and brand stories from the **human supplement, pet supplement, and broader DTC/ecommerce** industries — enough to stay current on what's circulating among the community and its key opinion leaders.
 
+**A first-class goal of running this every week is building durable, ever-growing reference libraries — `brands.json` and `opinion_leaders.json`.** These are not just a caching side-effect of the brief; growing them is itself part of the deliverable. Every run should leave both libraries measurably richer than it found them (new brands discovered, new guests logged, new notes on existing entries) — not merely consulted and left untouched. A run that produces a good brief but adds nothing to either library has under-delivered on this objective.
+
 ## Cadence & Scope
 - **Frequency:** Weekly, targeting delivery every Monday.
 - **Recency window:** Sections 1 and 3 cover only items from the **last 7 days**. If a fact can't be pinned to a verified publish date, label it `background` rather than treating it as this week's news — don't guess a date to make something fit.
@@ -112,13 +114,13 @@ Prefer primary sources (the person's own post or podcast episode) over secondhan
 
 **Do a real per-person check, not one generic name search.** A single "<name> news" query that comes back empty is not sufficient evidence someone had nothing to say this week — check their actual channel. For podcast hosts (Nik Sharma, Kurt Elster, and any others with a known show), check the podcast's own recent-episodes list directly, not just a name search — Limited Supply publishes weekly, so a "nothing found" result for Nik Sharma in a given week should be treated as a signal to check harder, not an answer. Report status **per person** in the notes (found + cited, or "checked <channel/platform>, nothing in-window"), not just an aggregate line for the whole list — this makes it visible when a check was shallow versus genuinely empty.
 
-**`opinion_leaders.json`** (project root) is the library for this — same pattern as `brands.json`. Read it first: it has each person's known channels/podcast, `last_checked`, and running notes, so you're not rediscovering someone's platform from scratch every week. Nik Sharma and Moiz Ali specifically **co-host Limited Supply** — checking that one podcast's recent-episodes list covers both of them, don't search them separately. Guests on Limited Supply are logged in `_limited_supply_guest_log`; treat notable new guests as individual research leads (per the Objective above), and append newly found guests to that log with episode/date. After the run, bump `last_checked` for every person touched, same discipline as the brand library.
+**`opinion_leaders.json`** (project root) is the library for this — same pattern and same standing as `brands.json`: growing it is a real objective of each run, not just a lookup cache. Read it first: it has each person's known channels/podcast, `last_checked`, and running notes, so you're not rediscovering someone's platform from scratch every week. Nik Sharma and Moiz Ali specifically **co-host Limited Supply** — checking that one podcast's recent-episodes list covers both of them, don't search them separately. Guests on Limited Supply are logged in `_limited_supply_guest_log`; treat notable new guests as individual research leads (per the Objective above), and append newly found guests to that log with episode/date. After the run, bump `last_checked` for every person touched, same discipline as the brand library.
 
 ---
 
 ## Brand Library
 
-`brands.json` (project root) is a growing roster of every brand this skill has ever profiled — the point is to stop re-deriving a brand's basic profile from scratch every week.
+`brands.json` (project root) is a growing roster of every brand this skill has ever profiled. It serves two purposes equally: stop re-deriving a brand's basic profile from scratch every week, **and** build a genuinely valuable, ever-expanding asset over time. Treat "did the library grow this week" as a real success criterion, not an incidental side-effect.
 
 **Before researching Section 1a or a Section 2 candidate:**
 1. Read `brands.json`.
