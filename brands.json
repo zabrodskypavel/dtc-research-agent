@@ -1,13 +1,17 @@
 {
   "Gruns": {
-    "display_name": "Grüns",
+    "display_name": "Gr\u00fcns",
     "category": "human",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-07-26",
-    "profile": "Daily greens gummy brand, founded 2023 by Chad Janis. Scaled to $300M ARR in under 4 years; 95% of customers use the product 4-6x/week; ships 10M gummies/day; in 7,000 retail doors. Product line expanded with Grüns Kids (2024), Nütrops (cognitive, 2024), Immün (immune, 2025), Jüced (energy, 2025).",
+    "last_checked": "2026-07-27",
+    "profile": "Daily greens gummy brand, founded 2023 by Chad Janis. Scaled to $300M ARR in under 4 years; 95% of customers use the product 4-6x/week; ships 10M gummies/day; in 7,000 retail doors. Product line expanded with Gr\u00fcns Kids (2024), N\u00fctrops (cognitive, 2024), Imm\u00fcn (immune, 2025), J\u00fcced (energy, 2025).",
     "key_facts": [
-      { "date": "2026-04-10", "fact": "Acquired by Unilever for $1.2B, expanding Unilever's health/wellbeing portfolio — Unilever's first acquisition since its food-business/McCormick merger announcement.", "source": "https://www.nutraingredients.com/Article/2026/04/10/unilever-acquires-supplement-brand-gruns-expanding-health-and-wellbeing-portfolio/" }
+      {
+        "date": "2026-04-10",
+        "fact": "Acquired by Unilever for $1.2B, expanding Unilever's health/wellbeing portfolio \u2014 Unilever's first acquisition since its food-business/McCormick merger announcement.",
+        "source": "https://www.nutraingredients.com/Article/2026/04/10/unilever-acquires-supplement-brand-gruns-expanding-health-and-wellbeing-portfolio/"
+      }
     ],
     "geography": "US",
     "sources": [
@@ -20,15 +24,39 @@
     "category": "human",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-07-26",
+    "last_checked": "2026-07-27",
     "profile": "David Beckham-backed longevity/health-drink brand under parent Prenetics. Flagship product: Daily Ultimate Essentials.",
     "key_facts": [
-      { "date": "2026-02-23", "fact": "Launched Daily Ultimate Essentials PRO with two new flavors (Mango + Passionfruit, Lemon + Orange).", "source": "https://prenetics.gcs-web.com/news-releases/news-release-details/prenetics-launches-im8-daily-ultimate-essentials-pro-clinical" },
-      { "date": "2026-04-14", "fact": "Partnered with Vitamin Angels, committing to impact 400,000 mothers/children in year one against malnutrition.", "source": "https://www.globenewswire.com/news-release/2026/04/14/3273281/0/en/prenetics-im8-health-partners-with-vitamin-angels-to-combat-global-malnutrition-commits-to-impacting-400-000-mothers-and-children-in-year-one.html" },
-      { "date": "2026-05-07", "fact": "Named exclusive Official Health Supplements Partner of Inter Miami CF (multi-year).", "source": "https://www.globenewswire.com/news-release/2026/05/07/3290010/0/en/Prenetics-IM8-Named-Exclusive-Health-Supplements-Partner-of-Inter-Miami-CF-in-Multi-Year-Partnership.html" },
-      { "date": "2026-06-30", "fact": "Preliminary unaudited monthly revenue ~$17M in June; FY2026 revenue guidance raised to $210-220M.", "source": "https://techcrunch.com/2026/07/14/david-beckhams-health-drink-startup-im8-takes-1b-from-general-catalysts-unusual-cvf-fund/" },
-      { "date": "2026-07-14", "fact": "Parent Prenetics closed $1B in growth financing from General Catalyst's Customer Value Fund.", "source": "https://techcrunch.com/2026/07/14/david-beckhams-health-drink-startup-im8-takes-1b-from-general-catalysts-unusual-cvf-fund/" },
-      { "date": "2026-07-19", "fact": "Prenetics separately projects IM8 reaching ~$300M in annualized run-rate revenue by year-end 2026 and >$400M full-year revenue in 2027.", "source": "https://www.nutritioninsight.com/news/david-beckham-im8-longevity-supplements-prenetics.html" }
+      {
+        "date": "2026-02-23",
+        "fact": "Launched Daily Ultimate Essentials PRO with two new flavors (Mango + Passionfruit, Lemon + Orange).",
+        "source": "https://prenetics.gcs-web.com/news-releases/news-release-details/prenetics-launches-im8-daily-ultimate-essentials-pro-clinical"
+      },
+      {
+        "date": "2026-04-14",
+        "fact": "Partnered with Vitamin Angels, committing to impact 400,000 mothers/children in year one against malnutrition.",
+        "source": "https://www.globenewswire.com/news-release/2026/04/14/3273281/0/en/prenetics-im8-health-partners-with-vitamin-angels-to-combat-global-malnutrition-commits-to-impacting-400-000-mothers-and-children-in-year-one.html"
+      },
+      {
+        "date": "2026-05-07",
+        "fact": "Named exclusive Official Health Supplements Partner of Inter Miami CF (multi-year).",
+        "source": "https://www.globenewswire.com/news-release/2026/05/07/3290010/0/en/Prenetics-IM8-Named-Exclusive-Health-Supplements-Partner-of-Inter-Miami-CF-in-Multi-Year-Partnership.html"
+      },
+      {
+        "date": "2026-06-30",
+        "fact": "Preliminary unaudited monthly revenue ~$17M in June; FY2026 revenue guidance raised to $210-220M.",
+        "source": "https://techcrunch.com/2026/07/14/david-beckhams-health-drink-startup-im8-takes-1b-from-general-catalysts-unusual-cvf-fund/"
+      },
+      {
+        "date": "2026-07-14",
+        "fact": "Parent Prenetics closed $1B in growth financing from General Catalyst's Customer Value Fund.",
+        "source": "https://techcrunch.com/2026/07/14/david-beckhams-health-drink-startup-im8-takes-1b-from-general-catalysts-unusual-cvf-fund/"
+      },
+      {
+        "date": "2026-07-19",
+        "fact": "Prenetics separately projects IM8 reaching ~$300M in annualized run-rate revenue by year-end 2026 and >$400M full-year revenue in 2027.",
+        "source": "https://www.nutritioninsight.com/news/david-beckham-im8-longevity-supplements-prenetics.html"
+      }
     ],
     "geography": "UK/Hong Kong origin (Prenetics), US expansion",
     "sources": [
@@ -40,12 +68,24 @@
     "category": "human",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-07-26",
-    "profile": "Berlin-founded (2020) DTC functional beverage brand — powdered energy drinks, hydration mixes, iced teas in sachet/tub format, mixed at home. Positions against canned incumbents (Monster, Red Bull) on cost/shipping-weight economics.",
+    "last_checked": "2026-07-27",
+    "profile": "Berlin-founded (2020) DTC functional beverage brand \u2014 powdered energy drinks, hydration mixes, iced teas in sachet/tub format, mixed at home. Positions against canned incumbents (Monster, Red Bull) on cost/shipping-weight economics.",
     "key_facts": [
-      { "date": "~2026-early", "fact": "In 6,000+ stores across Germany and Austria (Rewe, Edeka), 2.5M+ fans across Europe.", "source": "https://www.techinberlin.com/news/from-powder-to-profit-how-berlin-s-holy-energy-scaled-across-europe" },
-      { "date": "2026", "fact": "Investing £10M to break into UK retail; London ops team led by Dan Macken, hired ex-Monster Energy exec Ben Pegram.", "source": "https://www.thegrocer.co.uk/news/holy-in-10m-push-to-shake-up-uk-soft-drinks-category/714673.article" },
-      { "date": "2026", "fact": "Flavor/formulation partnership with Symrise.", "source": "https://www.perfumerflavorist.com/flavor/beverage/news/21877825/symrise-usa-symrise-collaborates-with-holy-energy-for-natural-energy-drink" }
+      {
+        "date": "~2026-early",
+        "fact": "In 6,000+ stores across Germany and Austria (Rewe, Edeka), 2.5M+ fans across Europe.",
+        "source": "https://www.techinberlin.com/news/from-powder-to-profit-how-berlin-s-holy-energy-scaled-across-europe"
+      },
+      {
+        "date": "2026",
+        "fact": "Investing \u00a310M to break into UK retail; London ops team led by Dan Macken, hired ex-Monster Energy exec Ben Pegram.",
+        "source": "https://www.thegrocer.co.uk/news/holy-in-10m-push-to-shake-up-uk-soft-drinks-category/714673.article"
+      },
+      {
+        "date": "2026",
+        "fact": "Flavor/formulation partnership with Symrise.",
+        "source": "https://www.perfumerflavorist.com/flavor/beverage/news/21877825/symrise-usa-symrise-collaborates-with-holy-energy-for-natural-energy-drink"
+      }
     ],
     "geography": "Germany/Austria core, expanding UK",
     "sources": [
@@ -61,9 +101,21 @@
     "last_checked": "2026-07-26",
     "profile": "Women's wellness / gut-health supplement brand founded by Siff Haider. Built on a tight SKU count (~10 hero products).",
     "key_facts": [
-      { "date": "late 2025", "fact": "Crossed $100M revenue.", "source": "https://www.forbes.com/sites/karineldor/2026/02/18/building-100m-wellness-brand-arrae-siff-haider-on-calculated-risk-and-relentless-standards/" },
-      { "date": "early 2026", "fact": "Rolled out into Ulta.", "source": "https://www.forbes.com/sites/karineldor/2026/02/18/building-100m-wellness-brand-arrae-siff-haider-on-calculated-risk-and-relentless-standards/" },
-      { "date": "2026", "fact": "+460% YTD growth in 2026.", "source": "https://www.forbes.com/sites/karineldor/2026/02/18/building-100m-wellness-brand-arrae-siff-haider-on-calculated-risk-and-relentless-standards/" }
+      {
+        "date": "late 2025",
+        "fact": "Crossed $100M revenue.",
+        "source": "https://www.forbes.com/sites/karineldor/2026/02/18/building-100m-wellness-brand-arrae-siff-haider-on-calculated-risk-and-relentless-standards/"
+      },
+      {
+        "date": "early 2026",
+        "fact": "Rolled out into Ulta.",
+        "source": "https://www.forbes.com/sites/karineldor/2026/02/18/building-100m-wellness-brand-arrae-siff-haider-on-calculated-risk-and-relentless-standards/"
+      },
+      {
+        "date": "2026",
+        "fact": "+460% YTD growth in 2026.",
+        "source": "https://www.forbes.com/sites/karineldor/2026/02/18/building-100m-wellness-brand-arrae-siff-haider-on-calculated-risk-and-relentless-standards/"
+      }
     ],
     "geography": "US",
     "sources": [
@@ -78,10 +130,18 @@
     "last_checked": "2026-07-26",
     "profile": "Height-growth supplement brand (Premium Alpha / Premium Pro lines).",
     "key_facts": [
-      { "date": "2026-04", "fact": "Relaunched two products: Height Growth Premium Alpha and Premium Pro.", "source": "https://www.nutraingredients.com/Article/2026/07/24/kins-suntory-nutifood-and-more-in-nutra-brand-news-round-up/" },
-      { "date": "2026-07-24", "fact": "Surpassed 980,000 cumulative customers.", "source": "https://www.nutraingredients.com/Article/2026/07/24/kins-suntory-nutifood-and-more-in-nutra-brand-news-round-up/" }
+      {
+        "date": "2026-04",
+        "fact": "Relaunched two products: Height Growth Premium Alpha and Premium Pro.",
+        "source": "https://www.nutraingredients.com/Article/2026/07/24/kins-suntory-nutifood-and-more-in-nutra-brand-news-round-up/"
+      },
+      {
+        "date": "2026-07-24",
+        "fact": "Surpassed 980,000 cumulative customers.",
+        "source": "https://www.nutraingredients.com/Article/2026/07/24/kins-suntory-nutifood-and-more-in-nutra-brand-news-round-up/"
+      }
     ],
-    "geography": "unconfirmed — likely Asia-focused",
+    "geography": "unconfirmed \u2014 likely Asia-focused",
     "sources": [
       "https://www.nutraingredients.com/Article/2026/07/24/kins-suntory-nutifood-and-more-in-nutra-brand-news-round-up/"
     ]
@@ -94,7 +154,11 @@
     "last_checked": "2026-07-26",
     "profile": "Once-daily capsule for women over 40, targeting metabolism, appetite awareness, and gut wellness (plant compounds, fiber, targeted probiotic strains).",
     "key_facts": [
-      { "date": "2026-07-23", "fact": "Published updated 2026 product information / official introduction.", "source": "https://www.manilatimes.net/2026/07/23/tmt-newswire/globenewswire/trimoryn-publishes-updated-2026-product-information-for-its-metabolism-and-gut-health-capsules/2390463" }
+      {
+        "date": "2026-07-23",
+        "fact": "Published updated 2026 product information / official introduction.",
+        "source": "https://www.manilatimes.net/2026/07/23/tmt-newswire/globenewswire/trimoryn-publishes-updated-2026-product-information-for-its-metabolism-and-gut-health-capsules/2390463"
+      }
     ],
     "geography": "unconfirmed",
     "sources": [
@@ -106,11 +170,19 @@
     "category": "pet",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-07-26",
+    "last_checked": "2026-07-27",
     "profile": "Pet supplement brand (part of H&H Group).",
     "key_facts": [
-      { "date": "2026-01", "fact": "Expanded into the veterinary channel with Zesty Paws Professional line, distributed via epiq Animal Health.", "source": "https://www.petfoodprocessing.net/articles/20037-zesty-paws-expands-into-veterinary-channel-with-new-product-line" },
-      { "date": "2026-06-12", "fact": "Expanded into ~1,200 Publix stores across the Southeast US.", "source": "https://www.petfoodprocessing.net/articles/20535-zesty-paws-hits-publix-shelves" }
+      {
+        "date": "2026-01",
+        "fact": "Expanded into the veterinary channel with Zesty Paws Professional line, distributed via epiq Animal Health.",
+        "source": "https://www.petfoodprocessing.net/articles/20037-zesty-paws-expands-into-veterinary-channel-with-new-product-line"
+      },
+      {
+        "date": "2026-06-12",
+        "fact": "Expanded into ~1,200 Publix stores across the Southeast US.",
+        "source": "https://www.petfoodprocessing.net/articles/20535-zesty-paws-hits-publix-shelves"
+      }
     ],
     "geography": "US",
     "sources": [
@@ -122,10 +194,14 @@
     "category": "pet",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-07-26",
+    "last_checked": "2026-07-27",
     "profile": "London-based pet supplement brand, founded 2018 by Christopher Masanto. ~185 employees as of Apr 2026.",
     "key_facts": [
-      { "date": "2025", "fact": "BC Partners acquired a majority stake.", "source": "https://www.bcpartners.com/news/bc-partners-acquires-a-majority-stake-in-premium-animal-health-brand-petlab-co/" }
+      {
+        "date": "2025",
+        "fact": "BC Partners acquired a majority stake.",
+        "source": "https://www.bcpartners.com/news/bc-partners-acquires-a-majority-stake-in-premium-animal-health-brand-petlab-co/"
+      }
     ],
     "geography": "UK",
     "sources": [
@@ -137,11 +213,19 @@
     "category": "pet",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-07-26",
-    "profile": "Dog supplement brand based in Kortrijk, Belgium (legal entity Suppy BV). 100%-natural daily chewies for gut flora, skin/coat, teeth, joints, anal glands, and stress/behavior — gluten-free, grain-free. Sells direct via dogsuppy.com and dogsuppy.co.uk, active mainly in Benelux/UK. Resolved 2026-07-26 after being unidentifiable as 'Dog Supply Co.' in prior runs.",
+    "last_checked": "2026-07-27",
+    "profile": "Dog supplement brand based in Kortrijk, Belgium (legal entity Suppy BV). 100%-natural daily chewies for gut flora, skin/coat, teeth, joints, anal glands, and stress/behavior \u2014 gluten-free, grain-free. Sells direct via dogsuppy.com and dogsuppy.co.uk, active mainly in Benelux/UK. Resolved 2026-07-26 after being unidentifiable as 'Dog Supply Co.' in prior runs.",
     "key_facts": [
-      { "date": "2026 (ongoing)", "fact": "~41.3K monthly site visitors, est. $89K-$162K monthly revenue, 288 active Meta ads, 61 products listed — an active, ad-spending DTC operator, not a dormant brand.", "source": "https://brandsearch.co/brands/dogsuppy.com" },
-      { "date": "2026 (Animo trade show)", "fact": "Exhibited at Animo 2026 (Benelux pet trade show); described the appearance as a strong success.", "source": "https://www.interzoo.com/en/exhibitors/dogsuppy-suppy-bv-2496684" }
+      {
+        "date": "2026 (ongoing)",
+        "fact": "~41.3K monthly site visitors, est. $89K-$162K monthly revenue, 288 active Meta ads, 61 products listed \u2014 an active, ad-spending DTC operator, not a dormant brand.",
+        "source": "https://brandsearch.co/brands/dogsuppy.com"
+      },
+      {
+        "date": "2026 (Animo trade show)",
+        "fact": "Exhibited at Animo 2026 (Benelux pet trade show); described the appearance as a strong success.",
+        "source": "https://www.interzoo.com/en/exhibitors/dogsuppy-suppy-bv-2496684"
+      }
     ],
     "geography": "Belgium (Benelux/UK sales)",
     "sources": [
@@ -155,7 +239,7 @@
     "category": "pet",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-07-26",
+    "last_checked": "2026-07-27",
     "profile": "NYC-based dog supplement brand, founded 2020 by James Shalhoub. ~11 employees as of May 2026. Product line: probiotics + multivitamins.",
     "key_facts": [],
     "geography": "US",
@@ -166,10 +250,14 @@
     "category": "pet",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-07-26",
+    "last_checked": "2026-07-27",
     "profile": "Limited public info found so far.",
     "key_facts": [
-      { "date": "2025-11", "fact": "Cross-brand promotion with HealthyBud (\"Calm + Support\" pairing HealthyBud Calming Aid with Balto Bracing).", "source": "unconfirmed — surfaced via aggregator, not a primary source" }
+      {
+        "date": "2025-11",
+        "fact": "Cross-brand promotion with HealthyBud (\"Calm + Support\" pairing HealthyBud Calming Aid with Balto Bracing).",
+        "source": "unconfirmed \u2014 surfaced via aggregator, not a primary source"
+      }
     ],
     "geography": "unknown",
     "sources": []
@@ -182,9 +270,21 @@
     "last_checked": "2026-07-26",
     "profile": "Dog supplement brand pursuing aggressive 2026 omnichannel retail expansion.",
     "key_facts": [
-      { "date": "2026-04", "fact": "Launched nationwide at Petco.", "source": "https://www.prnewswire.com/news-releases/leading-dog-supplement-brand-wuffes-launches-nationwide-at-petco-302754263.html" },
-      { "date": "2026-06-25", "fact": "Full range available in 1,300+ PetSmart stores.", "source": "https://www.streetinsider.com/PRNewswire/Wuffes+Expands+National+Retail+Presence+With+Full-Range+Supplement+Launch+at+PetSmart/26690184.html" },
-      { "date": "unclear, recent", "fact": "Landed in all 199 Pet Supermarket locations.", "source": "https://www.petfoodprocessing.net/articles/20670-wuffes-continues-retail-expansion-with-launch-in-pet-supermarket" }
+      {
+        "date": "2026-04",
+        "fact": "Launched nationwide at Petco.",
+        "source": "https://www.prnewswire.com/news-releases/leading-dog-supplement-brand-wuffes-launches-nationwide-at-petco-302754263.html"
+      },
+      {
+        "date": "2026-06-25",
+        "fact": "Full range available in 1,300+ PetSmart stores.",
+        "source": "https://www.streetinsider.com/PRNewswire/Wuffes+Expands+National+Retail+Presence+With+Full-Range+Supplement+Launch+at+PetSmart/26690184.html"
+      },
+      {
+        "date": "unclear, recent",
+        "fact": "Landed in all 199 Pet Supermarket locations.",
+        "source": "https://www.petfoodprocessing.net/articles/20670-wuffes-continues-retail-expansion-with-launch-in-pet-supermarket"
+      }
     ],
     "geography": "US",
     "sources": [
@@ -199,7 +299,11 @@
     "last_checked": "2026-07-26",
     "profile": "New vet-formulated dog-supplement brand (mobility, digestion, joint, wellness), founded after co-founder's dog battled cancer and arthritis.",
     "key_facts": [
-      { "date": "~2026-07-17", "fact": "Launched in the US.", "source": "press release wire, exact outlet not confirmed" }
+      {
+        "date": "~2026-07-17",
+        "fact": "Launched in the US.",
+        "source": "press release wire, exact outlet not confirmed"
+      }
     ],
     "geography": "US",
     "sources": []
@@ -210,9 +314,13 @@
     "status": "discovered",
     "first_seen": "2026-07-26",
     "last_checked": "2026-07-26",
-    "profile": "UK pet food company; \"Bound\" is its liquid pet-supplement line (pump format) for dogs and cats — probiotic, joint, skin/coat, calming, immunity.",
+    "profile": "UK pet food company; \"Bound\" is its liquid pet-supplement line (pump format) for dogs and cats \u2014 probiotic, joint, skin/coat, calming, immunity.",
     "key_facts": [
-      { "date": "2026-07-10", "fact": "Launched the Bound liquid supplement range.", "source": "https://www.petfoodindustry.com/pet-food-market/product-launches/news/15829789/prefera-pet-food-uk-launches-bound-liquid-supplements" }
+      {
+        "date": "2026-07-10",
+        "fact": "Launched the Bound liquid supplement range.",
+        "source": "https://www.petfoodindustry.com/pet-food-market/product-launches/news/15829789/prefera-pet-food-uk-launches-bound-liquid-supplements"
+      }
     ],
     "geography": "UK",
     "sources": [
@@ -224,14 +332,80 @@
     "category": "human",
     "status": "discovered",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-07-26",
-    "profile": "Creatine-focused human supplement brand.",
+    "last_checked": "2026-07-27",
+    "profile": "Creatine monohydrate gummy brand founded Dec 2022 by Dan and Sienna McCormick (ex-Away, Parade, Not Boring; ex-Goldman Sachs). First-mover on a gummy format for creatine, a category traditionally sold as powder/capsule. Section 2 Brand Spotlight, 2026-07-27 run.",
     "key_facts": [
-      { "date": "2026-03-30", "fact": "Raised $20M Series B (Alliance Consumer Growth, Impact Capital) to expand retail presence and creatine-supplement marketing.", "source": "https://www.nutraingredients.com/Article/2026/03/30/create-raises-20m-in-series-b-to-expand-creatine-access-and-innovation/" }
+      {
+        "date": "2026-03-30",
+        "fact": "Raised $20M Series B (Alliance Consumer Growth led; Impact Capital and existing investor Unilever Ventures participated) to expand retail presence and creatine-supplement marketing. Prior raise: $5M Series A (2024, Unilever Ventures).",
+        "source": "https://www.nutraingredients.com/Article/2026/03/30/create-raises-20m-in-series-b-to-expand-creatine-access-and-innovation/"
+      },
+      {
+        "date": "2025-10-08",
+        "fact": "Nationwide retail rollout into Target, The Vitamin Shoppe, and Sprouts; became top-selling creatine gummy at each retailer since launch.",
+        "source": "https://gazette.com/2025/10/08/create-wellness-introduces-creatine-gummies-to-target-stores-nationwide/"
+      },
+      {
+        "date": "2026 (ongoing)",
+        "fact": "Sold 250M+ gummies (~83M servings); team scaled from 5 full-time staff (late 2025) to 25; $30-40M in 2026 marketing spend planned. Influencer/UGC seeding via agency Kynship (~1,000 creators) reports 263% new-customer revenue growth from the program.",
+        "source": "https://www.kynship.co/case-studies/create-wellness"
+      },
+      {
+        "date": "2026-04-22",
+        "fact": "Class action filed (Connolly v. Create Wellness, SDNY) alleging gummies contain ~10% less creatine than the labeled 4.5g/serving; company disputes, citing third-party Eurofins potency testing.",
+        "source": "https://www.nutraingredients.com/Article/2026/04/30/class-action-filed-against-create-wellness-for-creatine-gummies-claims/"
+      },
+      {
+        "date": "2026-07-15",
+        "fact": "Launched a new 'Sour Grape' flavor.",
+        "source": "https://drugstorenews.com/news-briefs/2026-07-15?article=create-wellness-debuts-sour-grape-creatine-gummies"
+      }
     ],
-    "geography": "US",
+    "geography": "US (DTC + mass/specialty retail; no international expansion reported)",
     "sources": [
-      "https://www.nutraingredients.com/Article/2026/03/30/create-raises-20m-in-series-b-to-expand-creatine-access-and-innovation/"
+      "https://www.forbes.com/sites/emmasandler/2026/03/30/creatine-brand-create-wellness-raises-20-million-in-fresh-funding/",
+      "https://athletechnews.com/create-wellness-raises-20-million-funding-setting-sights-beyond-creatine-gummies/",
+      "https://www.nutraingredients.com/Article/2025/10/29/create-wellness-ceo-on-its-creatine-gummy-journey-into-the-mass-market/"
+    ]
+  },
+  "Vitabiotics": {
+    "display_name": "Vitabiotics",
+    "category": "human",
+    "status": "discovered",
+    "first_seen": "2026-07-27",
+    "last_checked": "2026-07-27",
+    "profile": "UK's No.1 vitamin brand (VB Group), founded/led by Tej Lalvani (ex-Dragons' Den investor). Portfolio includes Pregnacare, Wellman, Wellwoman, Perfectil, and Osteocare. Group also includes Meyer Organics (India) and VB Egypt.",
+    "key_facts": [
+      {
+        "date": "2026-07-24",
+        "fact": "Bain Capital (Asia PE team) agreed to acquire the VB Group for ~$1.2B/\u00a3900M (deal-value figures vary by outlet, $850-900M to $1.2B); Lalvani stays on as CEO. EQT and TPG had also bid. Bain plans to invest in e-commerce, digital, and international distribution, targeting India, the Middle East, and China.",
+        "source": "https://www.baincapital.com/news/bain-capital-acquire-vitabiotics-uks-no1-vitamin-company-0"
+      }
+    ],
+    "geography": "UK, with operations in India (Meyer Organics) and Egypt (VB Egypt)",
+    "sources": [
+      "https://www.baincapital.com/news/bain-capital-acquire-vitabiotics-uks-no1-vitamin-company-0",
+      "https://www.bloomberg.com/news/articles/2026-07-24/bain-capital-to-buy-1-2-billion-uk-supplements-firm-vitabiotics"
+    ]
+  },
+  "Myota": {
+    "display_name": "Myota",
+    "category": "human",
+    "status": "discovered",
+    "first_seen": "2026-07-27",
+    "last_checked": "2026-07-27",
+    "profile": "UK gut-health/microbiome startup (London), founded 2019/2022 by computational biologist Thomas Gurry and Kat Stennett. Clinically-backed prebiotic fibre blends, sold both DTC and B2B (supplies Joe & The Juice).",
+    "key_facts": [
+      {
+        "date": "2026-06-24",
+        "fact": "Closed a $4.5M Series A led by PeakBridge (reported July 2, 2026).",
+        "source": "https://www.nutraingredients.com/Article/2026/07/02/myota-raises-45m-to-scale-clinically-validated-prebiotic-fibre/"
+      }
+    ],
+    "geography": "UK",
+    "sources": [
+      "https://www.nutraingredients.com/Article/2026/07/02/myota-raises-45m-to-scale-clinically-validated-prebiotic-fibre/",
+      "https://www.thegrocer.co.uk/news/myota-raises-45m-to-supply-clinically-backed-fibre-blends-to-fandb-industry/720436.article"
     ]
   },
   "Happy V": {
@@ -242,7 +416,11 @@
     "last_checked": "2026-07-26",
     "profile": "Founder-led women's health probiotics brand; broke out via organic TikTok virality.",
     "key_facts": [
-      { "date": "2026-02-12", "fact": "500,000+ customers served, $20M+ in sales attributed to a viral TikTok video about bacterial vaginosis.", "source": "https://www.mediapost.com/publications/article/412754/how-a-viral-tiktok-video-launched-a-womens-health.html" }
+      {
+        "date": "2026-02-12",
+        "fact": "500,000+ customers served, $20M+ in sales attributed to a viral TikTok video about bacterial vaginosis.",
+        "source": "https://www.mediapost.com/publications/article/412754/how-a-viral-tiktok-video-launched-a-womens-health.html"
+      }
     ],
     "geography": "US",
     "sources": [
@@ -257,8 +435,16 @@
     "last_checked": "2026-07-26",
     "profile": "Adaptogen/mushroom functional gummy brand; bootstrapped and profitable for 7 years before taking outside capital.",
     "key_facts": [
-      { "date": "2025-11", "fact": "Took its first institutional capital — a minority-stake investment from PE firm Manna Tree, with Unilever Ventures participating.", "source": "https://www.prnewswire.com/news-releases/manna-tree-invests-in-plant-people-a-leading-functional-wellness-brand-302611813.html" },
-      { "date": "2026-01-06", "fact": "CEO outlined growth strategy following the Manna Tree minority investment.", "source": "https://www.nutraingredients.com/Article/2026/01/06/plant-people-ceo-outlines-growth-strategy-following-manna-tree-minority-investment/" }
+      {
+        "date": "2025-11",
+        "fact": "Took its first institutional capital \u2014 a minority-stake investment from PE firm Manna Tree, with Unilever Ventures participating.",
+        "source": "https://www.prnewswire.com/news-releases/manna-tree-invests-in-plant-people-a-leading-functional-wellness-brand-302611813.html"
+      },
+      {
+        "date": "2026-01-06",
+        "fact": "CEO outlined growth strategy following the Manna Tree minority investment.",
+        "source": "https://www.nutraingredients.com/Article/2026/01/06/plant-people-ceo-outlines-growth-strategy-following-manna-tree-minority-investment/"
+      }
     ],
     "geography": "US",
     "sources": [
