@@ -4,7 +4,7 @@
     "category": "human",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-07-27",
+    "last_checked": "2026-08-03",
     "profile": "Daily greens gummy brand, founded 2023 by Chad Janis. Scaled to $300M ARR in under 4 years; 95% of customers use the product 4-6x/week; ships 10M gummies/day; in 7,000 retail doors. Product line expanded with Gr\u00fcns Kids (2024), N\u00fctrops (cognitive, 2024), Imm\u00fcn (immune, 2025), J\u00fcced (energy, 2025).",
     "key_facts": [
       {
@@ -24,7 +24,7 @@
     "category": "human",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-07-27",
+    "last_checked": "2026-08-03",
     "profile": "David Beckham-backed longevity/health-drink brand under parent Prenetics. Flagship product: Daily Ultimate Essentials.",
     "key_facts": [
       {
@@ -68,7 +68,7 @@
     "category": "human",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-07-27",
+    "last_checked": "2026-08-03",
     "profile": "Berlin-founded (2020) DTC functional beverage brand \u2014 powdered energy drinks, hydration mixes, iced teas in sachet/tub format, mixed at home. Positions against canned incumbents (Monster, Red Bull) on cost/shipping-weight economics.",
     "key_facts": [
       {
@@ -98,8 +98,8 @@
     "category": "human",
     "status": "discovered",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-07-26",
-    "profile": "Women's wellness / gut-health supplement brand founded by Siff Haider. Built on a tight SKU count (~10 hero products).",
+    "last_checked": "2026-08-03",
+    "profile": "Women's wellness / gut-health-and-mood supplement brand founded by husband-and-wife team Siff Haider and Nish Samantray in March 2020 (Toronto/NYC). Built on a tight SKU count (~8-10 hero products spanning gut, cortisol/stress, mood, menopause). Reached $100M+ revenue largely bootstrapped — self-funded to $1M revenue within ~8 months, no outside capital until a comparatively small later seed round. Section 2 Brand Spotlight, 2026-08-03 run.",
     "key_facts": [
       {
         "date": "late 2025",
@@ -113,13 +113,38 @@
       },
       {
         "date": "2026",
-        "fact": "+460% YTD growth in 2026.",
+        "fact": "+460% YTD retail-distribution growth in 2026.",
         "source": "https://www.forbes.com/sites/karineldor/2026/02/18/building-100m-wellness-brand-arrae-siff-haider-on-calculated-risk-and-relentless-standards/"
+      },
+      {
+        "date": "2025-08",
+        "fact": "Went nationwide at Sprouts Farmers Market; became top-selling women's supplement in Sprouts' innovation-center program.",
+        "source": "https://smartmarketer.com/how-arrae-built-a-dtc-powerhouse/"
+      },
+      {
+        "date": "2025-09-22",
+        "fact": "Signed Pamela Anderson as a partner/face for a midlife/perimenopause-focused push, extending beyond its Gen Z/Millennial TikTok base.",
+        "source": "https://www.forbes.com/sites/yolarobert1/2025/09/22/arrae-taps-pamela-anderson-to-redefine-how-women-navigate-midlife-wellness/"
+      },
+      {
+        "date": "~2025-10",
+        "fact": "Went nationwide at Target.",
+        "source": "https://smartmarketer.com/how-arrae-built-a-dtc-powerhouse/"
+      },
+      {
+        "date": "2026-08-03",
+        "fact": "Balance note: Trustpilot score 1.9/5 across 145+ reviews — recurring complaints on product efficacy, subscription/billing transparency, and slow shipping. No lawsuit/FTC action found specific to Arrae.",
+        "source": "https://www.trustpilot.com/review/arrae.com"
       }
     ],
-    "geography": "US",
+    "geography": "US (DTC ships US/Canada/international; physical retail US-only so far)",
     "sources": [
-      "https://www.forbes.com/sites/karineldor/2026/02/18/building-100m-wellness-brand-arrae-siff-haider-on-calculated-risk-and-relentless-standards/"
+      "https://www.forbes.com/sites/karineldor/2026/02/18/building-100m-wellness-brand-arrae-siff-haider-on-calculated-risk-and-relentless-standards/",
+      "https://www.forbes.com/sites/yolarobert1/2025/09/22/arrae-taps-pamela-anderson-to-redefine-how-women-navigate-midlife-wellness/",
+      "https://smartmarketer.com/how-arrae-built-a-dtc-powerhouse/",
+      "https://www.femalefounderworld.com/case-studies/siff-haider-arrae",
+      "https://hotsmartrich.com/p/how-arrae-became-a-100m-business",
+      "https://tracxn.com/d/companies/arrae/__IRaXD1WlRdeVHwuMW0fRYo5HRw23hNwTtpHkir7tPVc/funding-and-investors"
     ]
   },
   "Icle Time": {
@@ -170,7 +195,7 @@
     "category": "pet",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-07-27",
+    "last_checked": "2026-08-03",
     "profile": "Pet supplement brand (part of H&H Group).",
     "key_facts": [
       {
@@ -194,7 +219,7 @@
     "category": "pet",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-07-27",
+    "last_checked": "2026-08-03",
     "profile": "London-based pet supplement brand, founded 2018 by Christopher Masanto. ~185 employees as of Apr 2026.",
     "key_facts": [
       {
@@ -213,7 +238,7 @@
     "category": "pet",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-07-27",
+    "last_checked": "2026-08-03",
     "profile": "Dog supplement brand based in Kortrijk, Belgium (legal entity Suppy BV). 100%-natural daily chewies for gut flora, skin/coat, teeth, joints, anal glands, and stress/behavior \u2014 gluten-free, grain-free. Sells direct via dogsuppy.com and dogsuppy.co.uk, active mainly in Benelux/UK. Resolved 2026-07-26 after being unidentifiable as 'Dog Supply Co.' in prior runs.",
     "key_facts": [
       {
@@ -239,7 +264,7 @@
     "category": "pet",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-07-27",
+    "last_checked": "2026-08-03",
     "profile": "NYC-based dog supplement brand, founded 2020 by James Shalhoub. ~11 employees as of May 2026. Product line: probiotics + multivitamins.",
     "key_facts": [],
     "geography": "US",
@@ -250,7 +275,7 @@
     "category": "pet",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-07-27",
+    "last_checked": "2026-08-03",
     "profile": "Limited public info found so far.",
     "key_facts": [
       {
@@ -449,6 +474,84 @@
     "geography": "US",
     "sources": [
       "https://www.prnewswire.com/news-releases/manna-tree-invests-in-plant-people-a-leading-functional-wellness-brand-302611813.html"
+    ]
+  },
+  "Valerie": {
+    "display_name": "Valerie",
+    "category": "human",
+    "status": "discovered",
+    "first_seen": "2026-08-03",
+    "last_checked": "2026-08-03",
+    "profile": "UK perimenopause supplement brand, London, founded 2024 by Wizz Selvey and Olly Johnson. Flagship 'Daily Essential' is a liposomal all-in-one (ashwagandha, B vitamins, zinc, magnesium) for mood/energy/focus. ~80% gross margin, £70+ AOV. Stocked at Liberty and Holland & Barrett. Previously raised £514K pre-seed (backers incl. Giles Brook, ex-Vita Coco EMEA CEO).",
+    "key_facts": [
+      {
+        "date": "2026-07-28",
+        "fact": "Put up for sale by founders after a follow-on funding round fell through.",
+        "source": "https://www.nutraingredients.com/Article/2026/07/28/uk-start-up-valerie-put-up-for-sale-as-funding-efforts-fall-short/"
+      }
+    ],
+    "geography": "UK",
+    "sources": [
+      "https://www.nutraingredients.com/Article/2026/07/28/uk-start-up-valerie-put-up-for-sale-as-funding-efforts-fall-short/"
+    ]
+  },
+  "DITTO": {
+    "display_name": "DITTO",
+    "category": "human",
+    "status": "discovered",
+    "first_seen": "2026-08-03",
+    "last_checked": "2026-08-03",
+    "profile": "Menstrual/PMS supplement brand, scientist-founded (neuroscientist Alice van der Schoot + former L'Oreal Brand Director Adam Kugler). Flagship 'Premenstrual Daily' (omega-3, magnesium, saffron via time-released beadlet delivery) targets PMS/PMDD. Note: a same-named, unrelated Rotterdam AI-health-summary startup also raised money in 2026 — confirmed distinct companies.",
+    "key_facts": [
+      {
+        "date": "2026-07-28",
+        "fact": "Closed a €5.2M ($6M) seed round led by FoodLabs with EKA Ventures and angels (total funding ~$7.7M), earmarked for PMDD/ADHD clinical research.",
+        "source": "https://www.eu-startups.com/2026/07/ditto-raises-e5-2-million-to-tackle-menstrual-health-gaps-with-research-and-targeted-supplements/"
+      }
+    ],
+    "geography": "unconfirmed",
+    "sources": [
+      "https://www.eu-startups.com/2026/07/ditto-raises-e5-2-million-to-tackle-menstrual-health-gaps-with-research-and-targeted-supplements/",
+      "https://nutraceuticalbusinessreview.com/ditto-raises-6m-scale-evidence-based-menstrual-supplements"
+    ]
+  },
+  "Plainspeak": {
+    "display_name": "Plainspeak",
+    "category": "human",
+    "status": "discovered",
+    "first_seen": "2026-08-03",
+    "last_checked": "2026-08-03",
+    "profile": "New women's supplement brand; flagship 'Strength Water' (protein/creatine/collagen blend). Notable for an unusual acquisition tactic: skipping paid ads in favor of mailing physical sample sachets to people who DM their address on Instagram.",
+    "key_facts": [
+      {
+        "date": "~2026-07-30",
+        "fact": "Profiled by Modern Retail for its mail-in-sample acquisition strategy.",
+        "source": "https://www.modernretail.co/marketing/how-new-wellness-brand-plainspeak-is-using-mail-in-samples-to-acquire-customers/"
+      }
+    ],
+    "geography": "US",
+    "sources": [
+      "https://www.modernretail.co/marketing/how-new-wellness-brand-plainspeak-is-using-mail-in-samples-to-acquire-customers/"
+    ]
+  },
+  "Omni Pet (LeanPaws)": {
+    "display_name": "Omni Pet (LeanPaws)",
+    "category": "pet",
+    "status": "discovered",
+    "first_seen": "2026-08-03",
+    "last_checked": "2026-08-03",
+    "profile": "London B-Corp backed by Deborah Meaden (Dragons' Den). LeanPaws is a non-prescription, plant-based dog weight-loss supplement designed to mimic GLP-1/Ozempic mechanisms (fibres, resistant starches, pre/probiotics); trial claimed 77% of overweight dogs lost weight.",
+    "key_facts": [
+      {
+        "date": "2026-06-22",
+        "fact": "Raised £11M ($14.5M) Series A (IW Capital/Redrice Ventures led, with RootBridge, Digitalis Ventures, Lever VC) to fund US entry and UK supermarket rollout.",
+        "source": "https://www.feedbusinessmea.com/2026/06/23/omni-raises-us14-5m-to-scale-vegan-pet-food-and-launch-dog-weight-loss-product/"
+      }
+    ],
+    "geography": "UK, expanding to US",
+    "sources": [
+      "https://www.feedbusinessmea.com/2026/06/23/omni-raises-us14-5m-to-scale-vegan-pet-food-and-launch-dog-weight-loss-product/",
+      "https://www.veganfoodandliving.com/news/ozempic-for-dogs-omni-11m-funding-boost/"
     ]
   }
 }
