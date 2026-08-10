@@ -1,15 +1,15 @@
 {
   "Gruns": {
-    "display_name": "Gr\u00fcns",
+    "display_name": "Grüns",
     "category": "human",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-08-03",
-    "profile": "Daily greens gummy brand, founded 2023 by Chad Janis. Scaled to $300M ARR in under 4 years; 95% of customers use the product 4-6x/week; ships 10M gummies/day; in 7,000 retail doors. Product line expanded with Gr\u00fcns Kids (2024), N\u00fctrops (cognitive, 2024), Imm\u00fcn (immune, 2025), J\u00fcced (energy, 2025).",
+    "last_checked": "2026-08-10",
+    "profile": "Daily greens gummy brand, founded 2023 by Chad Janis. Scaled to $300M ARR in under 4 years; 95% of customers use the product 4-6x/week; ships 10M gummies/day; in 7,000 retail doors. Product line expanded with Grüns Kids (2024), Nütrops (cognitive, 2024), Immün (immune, 2025), Jüced (energy, 2025).",
     "key_facts": [
       {
         "date": "2026-04-10",
-        "fact": "Acquired by Unilever for $1.2B, expanding Unilever's health/wellbeing portfolio \u2014 Unilever's first acquisition since its food-business/McCormick merger announcement.",
+        "fact": "Acquired by Unilever for $1.2B, expanding Unilever's health/wellbeing portfolio — Unilever's first acquisition since its food-business/McCormick merger announcement.",
         "source": "https://www.nutraingredients.com/Article/2026/04/10/unilever-acquires-supplement-brand-gruns-expanding-health-and-wellbeing-portfolio/"
       }
     ],
@@ -24,7 +24,7 @@
     "category": "human",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-08-03",
+    "last_checked": "2026-08-10",
     "profile": "David Beckham-backed longevity/health-drink brand under parent Prenetics. Flagship product: Daily Ultimate Essentials.",
     "key_facts": [
       {
@@ -56,6 +56,11 @@
         "date": "2026-07-19",
         "fact": "Prenetics separately projects IM8 reaching ~$300M in annualized run-rate revenue by year-end 2026 and >$400M full-year revenue in 2027.",
         "source": "https://www.nutritioninsight.com/news/david-beckham-im8-longevity-supplements-prenetics.html"
+      },
+      {
+        "date": "2026-08-07",
+        "fact": "Prenetics raised FY2026 IM8 revenue guidance to $210-220M (from $190-210M), its second guidance raise this year, forecasting a $300M annualized run-rate by year-end; disclosed alongside its Aug 18 Q2-earnings-date announcement.",
+        "source": "https://www.globenewswire.com/news-release/2026/08/07/3341085/0/en/prenetics-to-report-q2-2026-financial-results-on-august-18-2026-live-stream-earnings-event-on-stocktwits-and-announces-upcoming-conference-participation.html"
       }
     ],
     "geography": "UK/Hong Kong origin (Prenetics), US expansion",
@@ -68,8 +73,8 @@
     "category": "human",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-08-03",
-    "profile": "Berlin-founded (2020) DTC functional beverage brand \u2014 powdered energy drinks, hydration mixes, iced teas in sachet/tub format, mixed at home. Positions against canned incumbents (Monster, Red Bull) on cost/shipping-weight economics.",
+    "last_checked": "2026-08-10",
+    "profile": "Berlin-founded (2020) DTC functional beverage brand — powdered energy drinks, hydration mixes, iced teas in sachet/tub format, mixed at home. Positions against canned incumbents (Monster, Red Bull) on cost/shipping-weight economics.",
     "key_facts": [
       {
         "date": "~2026-early",
@@ -78,7 +83,7 @@
       },
       {
         "date": "2026",
-        "fact": "Investing \u00a310M to break into UK retail; London ops team led by Dan Macken, hired ex-Monster Energy exec Ben Pegram.",
+        "fact": "Investing £10M to break into UK retail; London ops team led by Dan Macken, hired ex-Monster Energy exec Ben Pegram.",
         "source": "https://www.thegrocer.co.uk/news/holy-in-10m-push-to-shake-up-uk-soft-drinks-category/714673.article"
       },
       {
@@ -166,7 +171,7 @@
         "source": "https://www.nutraingredients.com/Article/2026/07/24/kins-suntory-nutifood-and-more-in-nutra-brand-news-round-up/"
       }
     ],
-    "geography": "unconfirmed \u2014 likely Asia-focused",
+    "geography": "unconfirmed — likely Asia-focused",
     "sources": [
       "https://www.nutraingredients.com/Article/2026/07/24/kins-suntory-nutifood-and-more-in-nutra-brand-news-round-up/"
     ]
@@ -195,7 +200,7 @@
     "category": "pet",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-08-03",
+    "last_checked": "2026-08-10",
     "profile": "Pet supplement brand (part of H&H Group).",
     "key_facts": [
       {
@@ -207,6 +212,11 @@
         "date": "2026-06-12",
         "fact": "Expanded into ~1,200 Publix stores across the Southeast US.",
         "source": "https://www.petfoodprocessing.net/articles/20535-zesty-paws-hits-publix-shelves"
+      },
+      {
+        "date": "2026-08-06",
+        "fact": "Cat Calming Diffuser (pheromone-based, non-sedative) named \"Cat Calming Product of the Year\" in the 2026 Pet Innovation Awards.",
+        "source": "https://www.globenewswire.com/news-release/2026/08/06/3340250/0/en/Zesty-Paws-Cat-Calming-Diffuser-Named-Cat-Calming-Product-of-the-Year-In-2026-Pet-Innovation-Awards.html"
       }
     ],
     "geography": "US",
@@ -219,7 +229,7 @@
     "category": "pet",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-08-03",
+    "last_checked": "2026-08-10",
     "profile": "London-based pet supplement brand, founded 2018 by Christopher Masanto. ~185 employees as of Apr 2026.",
     "key_facts": [
       {
@@ -238,12 +248,12 @@
     "category": "pet",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-08-03",
-    "profile": "Dog supplement brand based in Kortrijk, Belgium (legal entity Suppy BV). 100%-natural daily chewies for gut flora, skin/coat, teeth, joints, anal glands, and stress/behavior \u2014 gluten-free, grain-free. Sells direct via dogsuppy.com and dogsuppy.co.uk, active mainly in Benelux/UK. Resolved 2026-07-26 after being unidentifiable as 'Dog Supply Co.' in prior runs.",
+    "last_checked": "2026-08-10",
+    "profile": "Dog supplement brand based in Kortrijk, Belgium (legal entity Suppy BV). 100%-natural daily chewies for gut flora, skin/coat, teeth, joints, anal glands, and stress/behavior — gluten-free, grain-free. Sells direct via dogsuppy.com and dogsuppy.co.uk, active mainly in Benelux/UK. Resolved 2026-07-26 after being unidentifiable as 'Dog Supply Co.' in prior runs.",
     "key_facts": [
       {
         "date": "2026 (ongoing)",
-        "fact": "~41.3K monthly site visitors, est. $89K-$162K monthly revenue, 288 active Meta ads, 61 products listed \u2014 an active, ad-spending DTC operator, not a dormant brand.",
+        "fact": "~41.3K monthly site visitors, est. $89K-$162K monthly revenue, 288 active Meta ads, 61 products listed — an active, ad-spending DTC operator, not a dormant brand.",
         "source": "https://brandsearch.co/brands/dogsuppy.com"
       },
       {
@@ -264,7 +274,7 @@
     "category": "pet",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-08-03",
+    "last_checked": "2026-08-10",
     "profile": "NYC-based dog supplement brand, founded 2020 by James Shalhoub. ~11 employees as of May 2026. Product line: probiotics + multivitamins.",
     "key_facts": [],
     "geography": "US",
@@ -275,13 +285,13 @@
     "category": "pet",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-08-03",
+    "last_checked": "2026-08-10",
     "profile": "Limited public info found so far.",
     "key_facts": [
       {
         "date": "2025-11",
         "fact": "Cross-brand promotion with HealthyBud (\"Calm + Support\" pairing HealthyBud Calming Aid with Balto Bracing).",
-        "source": "unconfirmed \u2014 surfaced via aggregator, not a primary source"
+        "source": "unconfirmed — surfaced via aggregator, not a primary source"
       }
     ],
     "geography": "unknown",
@@ -339,7 +349,7 @@
     "status": "discovered",
     "first_seen": "2026-07-26",
     "last_checked": "2026-07-26",
-    "profile": "UK pet food company; \"Bound\" is its liquid pet-supplement line (pump format) for dogs and cats \u2014 probiotic, joint, skin/coat, calming, immunity.",
+    "profile": "UK pet food company; \"Bound\" is its liquid pet-supplement line (pump format) for dogs and cats — probiotic, joint, skin/coat, calming, immunity.",
     "key_facts": [
       {
         "date": "2026-07-10",
@@ -403,7 +413,7 @@
     "key_facts": [
       {
         "date": "2026-07-24",
-        "fact": "Bain Capital (Asia PE team) agreed to acquire the VB Group for ~$1.2B/\u00a3900M (deal-value figures vary by outlet, $850-900M to $1.2B); Lalvani stays on as CEO. EQT and TPG had also bid. Bain plans to invest in e-commerce, digital, and international distribution, targeting India, the Middle East, and China.",
+        "fact": "Bain Capital (Asia PE team) agreed to acquire the VB Group for ~$1.2B/£900M (deal-value figures vary by outlet, $850-900M to $1.2B); Lalvani stays on as CEO. EQT and TPG had also bid. Bain plans to invest in e-commerce, digital, and international distribution, targeting India, the Middle East, and China.",
         "source": "https://www.baincapital.com/news/bain-capital-acquire-vitabiotics-uks-no1-vitamin-company-0"
       }
     ],
@@ -462,7 +472,7 @@
     "key_facts": [
       {
         "date": "2025-11",
-        "fact": "Took its first institutional capital \u2014 a minority-stake investment from PE firm Manna Tree, with Unilever Ventures participating.",
+        "fact": "Took its first institutional capital — a minority-stake investment from PE firm Manna Tree, with Unilever Ventures participating.",
         "source": "https://www.prnewswire.com/news-releases/manna-tree-invests-in-plant-people-a-leading-functional-wellness-brand-302611813.html"
       },
       {
@@ -552,6 +562,187 @@
     "sources": [
       "https://www.feedbusinessmea.com/2026/06/23/omni-raises-us14-5m-to-scale-vegan-pet-food-and-launch-dog-weight-loss-product/",
       "https://www.veganfoodandliving.com/news/ozempic-for-dogs-omni-11m-funding-boost/"
+    ]
+  },
+  "Bloom Nutrition": {
+    "display_name": "Bloom Nutrition",
+    "category": "human",
+    "status": "discovered",
+    "first_seen": "2026-08-10",
+    "last_checked": "2026-08-10",
+    "profile": "Founded 2019 by fitness-influencer Mari Llewellyn and CEO Greg LaVecchia. Started as a single-SKU greens-and-superfoods powder, evolved into a multi-category beverage-and-wellness platform (greens, Sparkling Energy drink, Bloom Pop prebiotic soda, Colostrum & Collagen Peptides). On pace for ~$500M in 2026 revenue, publicly framing its trajectory toward $1B. Section 2 Brand Spotlight, 2026-08-10 run.",
+    "key_facts": [
+      {
+        "date": "2024-01",
+        "fact": "Nutrabolt (maker of C4) took a 20% minority stake for $90M.",
+        "source": "https://www.modernretail.co/operations/exclusive-c4-owner-nutrabolt-acquires-a-minority-stake-in-bloom-nutrition/"
+      },
+      {
+        "date": "2025-07",
+        "fact": "Bloom Pop (prebiotic/gut-health soda) launched exclusively at 3,000+ Walmart stores nationwide.",
+        "source": "https://www.nutraingredients.com/Article/2025/07/03/bloom-intros-functional-soda-line-at-walmart/"
+      },
+      {
+        "date": "2025-07",
+        "fact": "Expanded into Ulta Beauty (300 stores).",
+        "source": "https://beautymatter.com/articles/bloom-nutrition-enters-ulta-beauty"
+      },
+      {
+        "date": "2025-09",
+        "fact": "Nutrabolt invested an additional ~$160M, taking majority ownership at a total commitment of ~$210M.",
+        "source": "https://www.fooddive.com/news/nutrabolt-bloom-nutrition-investment/759735/"
+      },
+      {
+        "date": "2026-04-28",
+        "fact": "Forbes feature: on pace for ~$500M 2026 revenue, trajectory toward $1B; beverage arm on track to surpass original supplement business this year.",
+        "source": "https://www.forbes.com/sites/yolarobert1/2026/04/28/bloom-nutrition-scaled-to-1-billion-by-prioritizing-its-community-first/"
+      }
+    ],
+    "geography": "US (DTC + national mass retail; no material international expansion found)",
+    "sources": [
+      "https://www.forbes.com/sites/yolarobert1/2026/04/28/bloom-nutrition-scaled-to-1-billion-by-prioritizing-its-community-first/",
+      "https://www.modernretail.co/operations/exclusive-c4-owner-nutrabolt-acquires-a-minority-stake-in-bloom-nutrition/",
+      "https://www.fooddive.com/news/nutrabolt-bloom-nutrition-investment/759735/",
+      "https://www.prnewswire.com/news-releases/nutrabolt-expands-strategic-partnership-with-bloom-nutrition-strengthening-portfolio-and-broadening-market-reach-302549930.html",
+      "https://www.modash.io/breakdowns/bloom-nutrition-influencer-marketing-strategy",
+      "https://www.42signals.com/blog/bloom-nutrition-marketing-strategy/",
+      "https://dailydot.com/bloom-greens-advertisements",
+      "https://athletechnews.com/nutrabolt-crosses-200m-in-bloom-investment-insiders-see-likely-majority-stake/"
+    ]
+  },
+  "Thorne": {
+    "display_name": "Thorne",
+    "category": "human",
+    "status": "discovered",
+    "first_seen": "2026-08-10",
+    "last_checked": "2026-08-10",
+    "profile": "Premium/clinical-grade supplement brand, owned by L Catterton (went private 2023).",
+    "key_facts": [
+      {
+        "date": "2026-08-04",
+        "fact": "P&G agreed to acquire Thorne for $3.8B, beating out Unilever and Haleon. Thorne surpassed $500M revenue in 2025, on pace for ~$650M in 2026 (~30%+ CAGR since going private); ~60% of revenue now from under-40 consumers. Deal expected to close Q4 2026.",
+        "source": "https://www.nutraingredients.com/Article/2026/08/04/pg-to-acquire-thorne-in-premium-wellness-play/"
+      }
+    ],
+    "geography": "US",
+    "sources": [
+      "https://www.nutraingredients.com/Article/2026/08/04/pg-to-acquire-thorne-in-premium-wellness-play/",
+      "https://www.nutritionaloutlook.com/view/procter-gamble-to-acquire-thorne-f3-8-billion",
+      "https://www.cnbc.com/2026/08/04/procter-gamble-will-acquire-supplements-brand-thorne.html"
+    ]
+  },
+  "Ritual": {
+    "display_name": "Ritual",
+    "category": "human",
+    "status": "discovered",
+    "first_seen": "2026-08-10",
+    "last_checked": "2026-08-10",
+    "profile": "Women's-health-focused supplement brand; Essential Prenatal is its #1 top-selling product.",
+    "key_facts": [
+      {
+        "date": "2026-08-03/10",
+        "fact": "Essential Prenatal expanded from a ~200-store West Coast Costco footprint (since Feb 2026) to nationwide across all US Costco warehouses (in-store, online, same-day delivery), $48.99 two-pack.",
+        "source": "https://www.nutraingredients.com/Article/2026/08/03/ritual-expands-into-costco-with-essential-prenatal-promoting-growth-of-the-womens-health-category/"
+      }
+    ],
+    "geography": "US",
+    "sources": [
+      "https://www.nutraingredients.com/Article/2026/08/03/ritual-expands-into-costco-with-essential-prenatal-promoting-growth-of-the-womens-health-category/"
+    ]
+  },
+  "Herbalife": {
+    "display_name": "Herbalife",
+    "category": "human",
+    "status": "discovered",
+    "first_seen": "2026-08-10",
+    "last_checked": "2026-08-10",
+    "profile": "Large legacy MLM supplement company.",
+    "key_facts": [
+      {
+        "date": "2026-08-05",
+        "fact": "Q2 2026 net sales $1.33B (+5.4% YoY) but a net loss of $(26.3)M vs. prior-year profit. Announced CFO John DeSimone's planned retirement (effective Dec 31, 2026), succeeded by Scott Schaefer (former Zappos President/CEO) effective Jan 1, 2027.",
+        "source": "https://ir.herbalife.com/news-events/press-releases/detail/951/herbalife-announces-planned-cfo-transition"
+      }
+    ],
+    "geography": "US (global MLM operations)",
+    "sources": [
+      "https://ir.herbalife.com/news-events/press-releases/detail/951/herbalife-announces-planned-cfo-transition"
+    ]
+  },
+  "Blackmores": {
+    "display_name": "Blackmores",
+    "category": "human",
+    "status": "discovered",
+    "first_seen": "2026-08-10",
+    "last_checked": "2026-08-10",
+    "profile": "Established Australian vitamin/supplement brand, active in APAC markets.",
+    "key_facts": [
+      {
+        "date": "2026-08-06",
+        "fact": "Launched \"FiZZERS,\" a fast-dissolving microgranule supplement format (drinkable, chewable, or effervescent) aimed at younger consumers, debuting in Singapore with regional rollout planned.",
+        "source": "https://www.nutraingredients.com/Article/2026/08/06/blackmores-leverages-community-engagement-digital-content-for-new-launch/"
+      }
+    ],
+    "geography": "Australia/APAC (Singapore launch market)",
+    "sources": [
+      "https://www.nutraingredients.com/Article/2026/08/06/blackmores-leverages-community-engagement-digital-content-for-new-launch/"
+    ]
+  },
+  "CaniNectar": {
+    "display_name": "CaniNectar",
+    "category": "pet",
+    "status": "discovered",
+    "first_seen": "2026-08-10",
+    "last_checked": "2026-08-10",
+    "profile": "By Tharos Ltd (UK), founded by William Addison and Dr. Rosemary Waring. Patented barley-derived natural enzyme supplement for dogs using an \"anabiomics\" approach — optimizing the dog's existing gut microbiome rather than introducing foreign bacterial strains. Builds on prior equine research behind sister product EquiNectar.",
+    "key_facts": [
+      {
+        "date": "2026-08-07",
+        "fact": "Featured in a Pet Food Industry trend piece on anabiomics as a new direction in animal gut health.",
+        "source": "https://www.petfoodindustry.com/pet-food-market/market-trends-and-reports/article/15830801/a-new-direction-in-animal-gut-health-anabiomics"
+      }
+    ],
+    "geography": "UK",
+    "sources": [
+      "https://www.petfoodindustry.com/pet-food-market/market-trends-and-reports/article/15830801/a-new-direction-in-animal-gut-health-anabiomics"
+    ]
+  },
+  "Botanical Bones": {
+    "display_name": "Botanical Bones",
+    "category": "pet",
+    "status": "discovered",
+    "first_seen": "2026-08-10",
+    "last_checked": "2026-08-10",
+    "profile": "Vet-co-founded functional dog-treat brand positioning treats as a \"targeted health-support platform,\" using organic, clinically dosed botanicals.",
+    "key_facts": [
+      {
+        "date": "~2026-08-04",
+        "fact": "Profiled by Pet Food Processing; exact publish date approximate (direct fetch unavailable).",
+        "source": "https://www.petfoodprocessing.net/articles/20736-botanical-bones-brings-clinical-discipline-to-functional-dog-treats"
+      }
+    ],
+    "geography": "US",
+    "sources": [
+      "https://www.petfoodprocessing.net/articles/20736-botanical-bones-brings-clinical-discipline-to-functional-dog-treats"
+    ]
+  },
+  "Holistic Way": {
+    "display_name": "Holistic Way",
+    "category": "human",
+    "status": "discovered",
+    "first_seen": "2026-08-10",
+    "last_checked": "2026-08-10",
+    "profile": "Established Singapore supplement brand (JR Life Sciences Pte Ltd, founded 2007 by Ricky Ong) — not a startup, but new to our tracking library.",
+    "key_facts": [
+      {
+        "date": "2026-08-06",
+        "fact": "Launched a plant-based Menopause Relief supplement (three clinically studied phytoestrogens, hormone-free, vegan/vegetarian-friendly).",
+        "source": "https://www.media-outreach.com/news/singapore/2026/08/06/479621/holistic-way-unveils-new-plant-based-menopause-relief-supplement/"
+      }
+    ],
+    "geography": "Singapore",
+    "sources": [
+      "https://www.media-outreach.com/news/singapore/2026/08/06/479621/holistic-way-unveils-new-plant-based-menopause-relief-supplement/"
     ]
   }
 }
