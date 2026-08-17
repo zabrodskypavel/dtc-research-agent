@@ -4,7 +4,7 @@
     "category": "human",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-08-10",
+    "last_checked": "2026-08-17",
     "profile": "Daily greens gummy brand, founded 2023 by Chad Janis. Scaled to $300M ARR in under 4 years; 95% of customers use the product 4-6x/week; ships 10M gummies/day; in 7,000 retail doors. Product line expanded with Grüns Kids (2024), Nütrops (cognitive, 2024), Immün (immune, 2025), Jüced (energy, 2025).",
     "key_facts": [
       {
@@ -24,9 +24,24 @@
     "category": "human",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-08-10",
-    "profile": "David Beckham-backed longevity/health-drink brand under parent Prenetics. Flagship product: Daily Ultimate Essentials.",
+    "last_checked": "2026-08-17",
+    "profile": "David Beckham-backed longevity/health-drink brand under parent Prenetics. Flagship product: Daily Ultimate Essentials. Section 2 Brand Spotlight, 2026-08-17 run — see key_facts for the full growth trajectory.",
     "key_facts": [
+      {
+        "date": "2025-12",
+        "fact": "$120M ARR in 12 months post-launch (+480% YoY), disclosed in Prenetics' Q4/FY2025 results.",
+        "source": "https://www.globenewswire.com/news-release/2026/02/18/3240325/0/en/Prenetics-Reports-Record-Q4-and-FY-2025-Results-IM8-Achieves-120M-ARR-in-12-Months-Revenue-Surges-480-YoY.html"
+      },
+      {
+        "date": "2026-03",
+        "fact": "Q1 2026 revenue $33.8M (~6x YoY).",
+        "source": "https://www.globenewswire.com/news-release/2026/06/10/3309702/0/en/prenetics-announces-record-q1-2026-results-with-im8-revenue-reaching-a-record-16-7-million-in-may-implying-200-million-in-annualized-recurring-revenue.html"
+      },
+      {
+        "date": "2026-08-17",
+        "fact": "Section 2 Brand Spotlight: full profile compiled — General Catalyst's $1B non-dilutive 'Customer Value Fund' (closed Jul 14, 2026) funds up to 70% of marketing spend per monthly cohort, repaid only from that cohort's revenue; quarterly-subscription retention model; sold in 43 countries with 60%+ revenue outside the US; ~4-star Trustpilot with complaints on shipping delays and per-serving cost (~$3.30, ~$2.63 subscribed); no lawsuits/FTC action found.",
+        "source": "https://techcrunch.com/2026/07/14/david-beckhams-health-drink-startup-im8-takes-1b-from-general-catalysts-unusual-cvf-fund/"
+      },
       {
         "date": "2026-02-23",
         "fact": "Launched Daily Ultimate Essentials PRO with two new flavors (Mango + Passionfruit, Lemon + Orange).",
@@ -65,7 +80,11 @@
     ],
     "geography": "UK/Hong Kong origin (Prenetics), US expansion",
     "sources": [
-      "https://techcrunch.com/2026/07/14/david-beckhams-health-drink-startup-im8-takes-1b-from-general-catalysts-unusual-cvf-fund/"
+      "https://techcrunch.com/2026/07/14/david-beckhams-health-drink-startup-im8-takes-1b-from-general-catalysts-unusual-cvf-fund/",
+      "https://www.globenewswire.com/news-release/2026/02/18/3240325/0/en/Prenetics-Reports-Record-Q4-and-FY-2025-Results-IM8-Achieves-120M-ARR-in-12-Months-Revenue-Surges-480-YoY.html",
+      "https://athletechnews.com/general-catalyst-commits-1-billion-to-david-beckham-im8-supplement-brand/",
+      "https://beautymatter.com/articles/david-beckham-backed-im8-off-to-108-million-first-year-start",
+      "https://www.trustpilot.com/review/im8health.com"
     ]
   },
   "Holy": {
@@ -73,7 +92,7 @@
     "category": "human",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-08-10",
+    "last_checked": "2026-08-17",
     "profile": "Berlin-founded (2020) DTC functional beverage brand — powdered energy drinks, hydration mixes, iced teas in sachet/tub format, mixed at home. Positions against canned incumbents (Monster, Red Bull) on cost/shipping-weight economics.",
     "key_facts": [
       {
@@ -200,7 +219,7 @@
     "category": "pet",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-08-10",
+    "last_checked": "2026-08-17",
     "profile": "Pet supplement brand (part of H&H Group).",
     "key_facts": [
       {
@@ -229,7 +248,7 @@
     "category": "pet",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-08-10",
+    "last_checked": "2026-08-17",
     "profile": "London-based pet supplement brand, founded 2018 by Christopher Masanto. ~185 employees as of Apr 2026.",
     "key_facts": [
       {
@@ -248,7 +267,7 @@
     "category": "pet",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-08-10",
+    "last_checked": "2026-08-17",
     "profile": "Dog supplement brand based in Kortrijk, Belgium (legal entity Suppy BV). 100%-natural daily chewies for gut flora, skin/coat, teeth, joints, anal glands, and stress/behavior — gluten-free, grain-free. Sells direct via dogsuppy.com and dogsuppy.co.uk, active mainly in Benelux/UK. Resolved 2026-07-26 after being unidentifiable as 'Dog Supply Co.' in prior runs.",
     "key_facts": [
       {
@@ -274,7 +293,7 @@
     "category": "pet",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-08-10",
+    "last_checked": "2026-08-17",
     "profile": "NYC-based dog supplement brand, founded 2020 by James Shalhoub. ~11 employees as of May 2026. Product line: probiotics + multivitamins.",
     "key_facts": [],
     "geography": "US",
@@ -285,8 +304,8 @@
     "category": "pet",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-08-10",
-    "profile": "Limited public info found so far.",
+    "last_checked": "2026-08-17",
+    "profile": "Limited public info found so far. Flagged 2026-08-17: baltousa.com reads as primarily an orthopedic-bracing brand (knee/elbow/carpal braces for arthritis, CCL tears, hip dysplasia), not a nutritional supplement brand — worth revisiting whether it's the right anchor for this pet-supplement watch list.",
     "key_facts": [
       {
         "date": "2025-11",
@@ -743,6 +762,106 @@
     "geography": "Singapore",
     "sources": [
       "https://www.media-outreach.com/news/singapore/2026/08/06/479621/holistic-way-unveils-new-plant-based-menopause-relief-supplement/"
+    ]
+  },
+  "NORTH Performance": {
+    "display_name": "NORTH Performance",
+    "category": "human",
+    "status": "discovered",
+    "first_seen": "2026-08-17",
+    "last_checked": "2026-08-17",
+    "profile": "All-in-one performance-supplement brand co-founded by Michael Lucas and Uri Kurop (surfers/snowboarders who developed joint damage) with orthopedic surgeon Dr. Masi Reynolds, DO (co-founder, Silicon Valley Orthopedics). Two flagship products: Foundation (effervescent daily tablet) and Ultra (advanced stack). Novel model: ~30 founding action-sports athletes (Brandon Semenuk, Brett Rheeder, Loïc Bruni, Danny MacAskill, and others) hold real equity as co-owners instead of paid-ambassador deals. NSF-certified manufacturing in Lindon, UT.",
+    "key_facts": [
+      {
+        "date": "2026-08-11",
+        "fact": "Launched globally with a pre-sales site and the founding athlete co-owner roster; full purchase/shipping launch slated for September 2026.",
+        "source": "https://www.globenewswire.com/news-release/2026/08/11/3342367/0/en/north-performance-launches-globally-with-pre-sales-site-and-founding-athlete-co-owner-roster.html"
+      }
+    ],
+    "geography": "US (Dover, DE incorporation; Lindon, UT manufacturing)",
+    "sources": [
+      "https://www.globenewswire.com/news-release/2026/08/11/3342367/0/en/north-performance-launches-globally-with-pre-sales-site-and-founding-athlete-co-owner-roster.html",
+      "https://www.pinkbike.com/news/north-performance-supplement-brand-launches-with-semenuk-brown-rheeder-bruni-macaskill-seagrave-and-more-as-co-owners.html"
+    ]
+  },
+  "Mervyn's Petcare": {
+    "display_name": "Mervyn's Petcare (Feline First)",
+    "category": "pet",
+    "status": "discovered",
+    "first_seen": "2026-08-17",
+    "last_checked": "2026-08-17",
+    "profile": "US subsidiary of Yuyu Pharma (Korean pharmaceutical company), operating the \"Feline First\" cat-supplement line. A portfolio company of UCLA's Magnify Incubator (California NanoSystems Institute).",
+    "key_facts": [
+      {
+        "date": "2026-08-13",
+        "fact": "Launched its second Feline First product — Ari's Purrfect Omega+Multivitamin Lickable Cat Food Supplement — on Amazon, timed to its one-year Magnify Incubator anniversary.",
+        "source": "https://www.prnewswire.com/news-releases/mervyns-petcare-marks-one-year-at-magnify-incubator-on-ucla-campus-with-launch-of-second-feline-supplement-on-amazon-302850672.html"
+      }
+    ],
+    "geography": "US",
+    "sources": [
+      "https://www.prnewswire.com/news-releases/mervyns-petcare-marks-one-year-at-magnify-incubator-on-ucla-campus-with-launch-of-second-feline-supplement-on-amazon-302850672.html"
+    ]
+  },
+  "FitLife Brands": {
+    "display_name": "FitLife Brands",
+    "category": "human",
+    "status": "discovered",
+    "first_seen": "2026-08-17",
+    "last_checked": "2026-08-17",
+    "profile": "Public sports-nutrition/supplement holding company; owns Irwin Naturals (acquired brand driving current growth).",
+    "key_facts": [
+      {
+        "date": "2026-08-13",
+        "fact": "Q2 2026 total revenue $26.5M (+65% YoY); wholesale revenue +156% to $14.6M; net income $2.0M (+12%). Growth driven by Irwin Naturals, whose Amazon channel reached ~$1M/month by June 2026.",
+        "source": "https://www.globenewswire.com/news-release/2026/08/13/3344396/0/en/fitlife-brands-announces-second-quarter-2026-results.html"
+      }
+    ],
+    "geography": "US",
+    "sources": [
+      "https://www.globenewswire.com/news-release/2026/08/13/3344396/0/en/fitlife-brands-announces-second-quarter-2026-results.html",
+      "https://www.manilatimes.net/2026/08/13/tmt-newswire/globenewswire/fitlife-brands-announces-second-quarter-2026-results/2404775"
+    ]
+  },
+  "AG1": {
+    "display_name": "AG1",
+    "category": "human",
+    "status": "discovered",
+    "first_seen": "2026-08-17",
+    "last_checked": "2026-08-17",
+    "profile": "Daily greens/foundational-nutrition powder brand (formerly Athletic Greens).",
+    "key_facts": [
+      {
+        "date": "2026-08-10",
+        "fact": "Signed its first-ever football sponsorship: multi-season Championship front-of-shirt deal with Swansea City FC (2026-27), branding across kits, stadium, and digital. Club co-owned by Luka Modrić, Snoop Dogg, and Martha Stewart.",
+        "source": "https://www.nutraingredients.com/Article/2026/08/10/ag-1-kicks-off-first-football-collaboration-with-swansea-city-fc/"
+      }
+    ],
+    "geography": "US, UK marketing push via Swansea sponsorship",
+    "sources": [
+      "https://www.nutraingredients.com/Article/2026/08/10/ag-1-kicks-off-first-football-collaboration-with-swansea-city-fc/",
+      "https://www.swanseacity.com/news/swansea-city-agree-landmark-partnership-ag1"
+    ]
+  },
+  "Jamieson Wellness": {
+    "display_name": "Jamieson Wellness",
+    "category": "human",
+    "status": "discovered",
+    "first_seen": "2026-08-17",
+    "last_checked": "2026-08-17",
+    "profile": "Canadian vitamin/supplement company, publicly traded prior to acquisition.",
+    "key_facts": [
+      {
+        "date": "2026-08-06",
+        "fact": "Kirin Holdings agreed to acquire Jamieson Wellness for ~C$2.5B (~$1.4B USD), C$45.75/share all-cash deal; closing expected Q4 2026. Explicit play for a North American health-science platform. Backfilled this run — missed the prior week's window by a few days.",
+        "source": "https://www.bloomberg.com/news/articles/2026-08-06/kirin-to-buy-vitamins-firm-jamieson-in-1-4-billion-deal"
+      }
+    ],
+    "geography": "Canada",
+    "sources": [
+      "https://www.bloomberg.com/news/articles/2026-08-06/kirin-to-buy-vitamins-firm-jamieson-in-1-4-billion-deal",
+      "https://www.nutraingredients.com/Article/2026/08/06/kirin-to-acquire-jamieson-wellness-for-c25-billion/",
+      "https://jamiesonwellness.com/jamieson-wellness-enters-into-definitive-agreement-to-be-acquired-by-kirin-in-c2-5-billion-transaction/"
     ]
   }
 }
