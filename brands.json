@@ -4,7 +4,7 @@
     "category": "human",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-08-17",
+    "last_checked": "2026-08-24",
     "profile": "Daily greens gummy brand, founded 2023 by Chad Janis. Scaled to $300M ARR in under 4 years; 95% of customers use the product 4-6x/week; ships 10M gummies/day; in 7,000 retail doors. Product line expanded with Grüns Kids (2024), Nütrops (cognitive, 2024), Immün (immune, 2025), Jüced (energy, 2025).",
     "key_facts": [
       {
@@ -24,7 +24,7 @@
     "category": "human",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-08-17",
+    "last_checked": "2026-08-24",
     "profile": "David Beckham-backed longevity/health-drink brand under parent Prenetics. Flagship product: Daily Ultimate Essentials. Section 2 Brand Spotlight, 2026-08-17 run — see key_facts for the full growth trajectory.",
     "key_facts": [
       {
@@ -76,6 +76,11 @@
         "date": "2026-08-07",
         "fact": "Prenetics raised FY2026 IM8 revenue guidance to $210-220M (from $190-210M), its second guidance raise this year, forecasting a $300M annualized run-rate by year-end; disclosed alongside its Aug 18 Q2-earnings-date announcement.",
         "source": "https://www.globenewswire.com/news-release/2026/08/07/3341085/0/en/prenetics-to-report-q2-2026-financial-results-on-august-18-2026-live-stream-earnings-event-on-stocktwits-and-announces-upcoming-conference-participation.html"
+      },
+      {
+        "date": "2026-08-18",
+        "fact": "Q2 2026 results: total revenue $46.5M (+288% YoY), IM8 revenue $45.0M (+359% YoY, ~$20.9M in July alone) — sixth consecutive record quarter. Gross margin 65%; loss from operations $20.98M; adjusted EBITDA -$19.03M. FY2026 IM8 guidance raised to $220-230M (from $210-220M); new $400M+ FY27 target. July was Prenetics' first month of positive consolidated adjusted free cash flow.",
+        "source": "https://www.globenewswire.com/news-release/2026/08/18/3346717/0/en/prenetics-im8-reports-q2-2026-revenue-growth-of-288-yoy-raises-fy-2026-im8-revenue-guidance-to-220-230-million-july-was-the-first-month-of-positive-consolidated-adjusted-free-cash-.html"
       }
     ],
     "geography": "UK/Hong Kong origin (Prenetics), US expansion",
@@ -92,7 +97,7 @@
     "category": "human",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-08-17",
+    "last_checked": "2026-08-24",
     "profile": "Berlin-founded (2020) DTC functional beverage brand — powdered energy drinks, hydration mixes, iced teas in sachet/tub format, mixed at home. Positions against canned incumbents (Monster, Red Bull) on cost/shipping-weight economics.",
     "key_facts": [
       {
@@ -219,7 +224,7 @@
     "category": "pet",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-08-17",
+    "last_checked": "2026-08-24",
     "profile": "Pet supplement brand (part of H&H Group).",
     "key_facts": [
       {
@@ -248,7 +253,7 @@
     "category": "pet",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-08-17",
+    "last_checked": "2026-08-24",
     "profile": "London-based pet supplement brand, founded 2018 by Christopher Masanto. ~185 employees as of Apr 2026.",
     "key_facts": [
       {
@@ -267,7 +272,7 @@
     "category": "pet",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-08-17",
+    "last_checked": "2026-08-24",
     "profile": "Dog supplement brand based in Kortrijk, Belgium (legal entity Suppy BV). 100%-natural daily chewies for gut flora, skin/coat, teeth, joints, anal glands, and stress/behavior — gluten-free, grain-free. Sells direct via dogsuppy.com and dogsuppy.co.uk, active mainly in Benelux/UK. Resolved 2026-07-26 after being unidentifiable as 'Dog Supply Co.' in prior runs.",
     "key_facts": [
       {
@@ -293,7 +298,7 @@
     "category": "pet",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-08-17",
+    "last_checked": "2026-08-24",
     "profile": "NYC-based dog supplement brand, founded 2020 by James Shalhoub. ~11 employees as of May 2026. Product line: probiotics + multivitamins.",
     "key_facts": [],
     "geography": "US",
@@ -304,7 +309,7 @@
     "category": "pet",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-08-17",
+    "last_checked": "2026-08-24",
     "profile": "Limited public info found so far. Flagged 2026-08-17: baltousa.com reads as primarily an orthopedic-bracing brand (knee/elbow/carpal braces for arthritis, CCL tears, hip dysplasia), not a nutritional supplement brand — worth revisiting whether it's the right anchor for this pet-supplement watch list.",
     "key_facts": [
       {
@@ -862,6 +867,75 @@
       "https://www.bloomberg.com/news/articles/2026-08-06/kirin-to-buy-vitamins-firm-jamieson-in-1-4-billion-deal",
       "https://www.nutraingredients.com/Article/2026/08/06/kirin-to-acquire-jamieson-wellness-for-c25-billion/",
       "https://jamiesonwellness.com/jamieson-wellness-enters-into-definitive-agreement-to-be-acquired-by-kirin-in-c2-5-billion-transaction/"
+    ]
+  },
+  "Arrival Wellness": {
+    "display_name": "Arrival Wellness",
+    "category": "human",
+    "status": "discovered",
+    "first_seen": "2026-08-24",
+    "last_checked": "2026-08-24",
+    "profile": "Women-founded US creatine brand (launched April 2025) built around a single hero product — creatine monohydrate + organic blueberry, third-party tested, '2-ingredient' positioning.",
+    "key_facts": [
+      {
+        "date": "2026-08-19",
+        "fact": "Launched single-serve travel sachets of its daily creatine ($3 single / $28 12-pack); official launch Aug 25, 2026.",
+        "source": "https://www.bevnet.com/pr/2026/08/19/womenfounded-supplement-brand-arrival-wellness-launches-singleserving-sachets-of-daily-creatine"
+      }
+    ],
+    "geography": "US",
+    "sources": [
+      "https://www.bevnet.com/pr/2026/08/19/womenfounded-supplement-brand-arrival-wellness-launches-singleserving-sachets-of-daily-creatine",
+      "https://www.nutraingredients.com/Article/2026/08/18/august-launch-pad-convenience-targeted-benefits-and-multifunctional-formulas-converge/"
+    ]
+  },
+  "LibraHealth": {
+    "display_name": "LibraHealth",
+    "category": "human",
+    "status": "discovered",
+    "first_seen": "2026-08-24",
+    "last_checked": "2026-08-24",
+    "profile": "South Korean menstrual-cycle-tailored sports-nutrition brand for female athletes. Flagship product 'Golden' (named for the corpus luteum/luteal phase) combines kimchi-derived lactic acid bacteria with plant-based ingredients; deliberately avoids hormone-active ingredients.",
+    "key_facts": [
+      {
+        "date": "2026-08-20",
+        "fact": "Raised an undisclosed seed round from Korean VC The Ventures, earmarked for product development/certification and a Q4 2026 pilot supply to US collegiate sports teams ahead of a Q1 2027 official launch.",
+        "source": "https://en.wowtale.net/2026/08/21/234812/"
+      }
+    ],
+    "geography": "South Korea, expanding to US",
+    "sources": [
+      "https://en.wowtale.net/2026/08/21/234812/",
+      "https://www.asiae.co.kr/en/article/2026082008384080000",
+      "https://www.venturesquare.net/en/1107534/"
+    ]
+  },
+  "Micro Ingredients": {
+    "display_name": "Micro Ingredients",
+    "category": "human",
+    "status": "discovered",
+    "first_seen": "2026-08-24",
+    "last_checked": "2026-08-24",
+    "profile": "Diamond Bar, CA supplement brand (legal entity DPL Trading Inc.), founded ~2015-16 by Sara Lyu. Started as an Amazon-first organic-spice/superfood-powder seller, now expanding into collagen, ashwagandha, mushroom, and fiber supplements. Section 2 Brand Spotlight, 2026-08-24 run — see key_facts for full growth trajectory.",
+    "key_facts": [
+      {
+        "date": "2026-06",
+        "fact": "#1 supplement brand on TikTok Shop, ~$31.2M in sales YTD (Charm.io data), ahead of MaryRuth's ($27.9M) and Goli Nutrition ($20M). Passed $111.7M cumulative TikTok Shop GMV (3.2M units, 117K+ creator videos), after crossing $50M cumulative in Oct 2024 and $63.4M full-year 2024.",
+        "source": "https://wwd.com/beauty-industry-news/wellness/top-supplement-brands-tiktok-shop-gut-health-wellness-1239030576/"
+      },
+      {
+        "date": "2025-09-19",
+        "fact": "Class action filed (Willis-Albrigo v. DPL Trading, Inc., C.D. Cal.) alleging false '10g protein' labeling on Pure Peanut Powder; separate CA Prop 65 60-day notice over lead/cadmium in powdered products. No FDA recall issued.",
+        "source": "https://www.law.com/radar/card/pm-60238343-laura-v-dpl-trading-inc"
+      }
+    ],
+    "geography": "US (Amazon + TikTok Shop US; no confirmed international retail)",
+    "sources": [
+      "https://wwd.com/beauty-industry-news/wellness/top-supplement-brands-tiktok-shop-gut-health-wellness-1239030576/",
+      "https://app.dealroom.co/news/feed/supplement-brands-rake-in-182m-on-tiktok-shop-in-six-months",
+      "https://www.nutraingredients.com/Article/2026/06/23/tiktok-shops-largest-health-beauty-category-supplements/",
+      "https://www.fastmoss.com/shop-marketing/detail/7494949083499694765",
+      "https://www.trustpilot.com/review/microingredients.com"
     ]
   }
 }
