@@ -1,4 +1,24 @@
 {
+  "Reformed": {
+    "display_name": "Reformed",
+    "category": "human",
+    "status": "anchor",
+    "first_seen": "2026-08-10",
+    "last_checked": "2026-08-10",
+    "profile": "UK (London-based) functional-beverage brand — premium coffee and ceremonial matcha fortified with added nutrients (collagen or vegan collagen, creatine, 21 vitamins/minerals). Add-on line includes creatine powder, fiber powder, functional mushrooms (Lion's Mane, Tremella), and ashwagandha. All-natural, gluten-free, dairy-free, no artificial sweeteners/added sugar. Added directly by Pavel 2026-08-10 (not yet independently discovered via the weekly scan) — treat as an anchor going forward.",
+    "key_facts": [
+      {
+        "date": "2026-08-10",
+        "fact": "118,000+ customer reviews at time of check; stocked at premium UK retailers (Selfridges, SILO, MAD) and available via delivery services (Zapp).",
+        "source": "http://www.feelreformed.com/"
+      }
+    ],
+    "geography": "UK",
+    "sources": [
+      "http://www.feelreformed.com/",
+      "https://www.trustpilot.com/review/feelreformed.com"
+    ]
+  },
   "Gruns": {
     "display_name": "Gr\u00fcns",
     "category": "human",

@@ -49,7 +49,7 @@ Same format, dedicated to brand-level moves (launches, campaigns, funding, expan
 
 Anchor brands — track these at minimum, but they're a starting point, not the whole list:
 - **Pet supplements:** Zesty Paws, PetLab Co., DogSuppy (Belgium), Finn, Balto
-- **Human supplements:** Gruns, IM8, Holy
+- **Human supplements:** Gruns, IM8, Holy, Reformed (feelreformed.com — UK functional coffee/matcha)
 
 Beyond the anchors, actively scan for **other notable or emerging brands** making news this week in either category — the goal is a picture of the market, not just these names. If an anchor brand has no news this week, say so plainly ("no news this week") rather than padding with filler.
 
