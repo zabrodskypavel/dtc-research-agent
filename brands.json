@@ -4,7 +4,7 @@
     "category": "human",
     "status": "anchor",
     "first_seen": "2026-08-10",
-    "last_checked": "2026-08-10",
+    "last_checked": "2026-08-31",
     "profile": "UK (London-based) functional-beverage brand — premium coffee and ceremonial matcha fortified with added nutrients (collagen or vegan collagen, creatine, 21 vitamins/minerals). Add-on line includes creatine powder, fiber powder, functional mushrooms (Lion's Mane, Tremella), and ashwagandha. All-natural, gluten-free, dairy-free, no artificial sweeteners/added sugar. Added directly by Pavel 2026-08-10 (not yet independently discovered via the weekly scan) — treat as an anchor going forward.",
     "key_facts": [
       {
@@ -24,7 +24,7 @@
     "category": "human",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-08-24",
+    "last_checked": "2026-08-31",
     "profile": "Daily greens gummy brand, founded 2023 by Chad Janis. Scaled to $300M ARR in under 4 years; 95% of customers use the product 4-6x/week; ships 10M gummies/day; in 7,000 retail doors. Product line expanded with Grüns Kids (2024), Nütrops (cognitive, 2024), Immün (immune, 2025), Jüced (energy, 2025).",
     "key_facts": [
       {
@@ -44,7 +44,7 @@
     "category": "human",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-08-24",
+    "last_checked": "2026-08-31",
     "profile": "David Beckham-backed longevity/health-drink brand under parent Prenetics. Flagship product: Daily Ultimate Essentials. Section 2 Brand Spotlight, 2026-08-17 run — see key_facts for the full growth trajectory.",
     "key_facts": [
       {
@@ -117,7 +117,7 @@
     "category": "human",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-08-24",
+    "last_checked": "2026-08-31",
     "profile": "Berlin-founded (2020) DTC functional beverage brand — powdered energy drinks, hydration mixes, iced teas in sachet/tub format, mixed at home. Positions against canned incumbents (Monster, Red Bull) on cost/shipping-weight economics.",
     "key_facts": [
       {
@@ -244,7 +244,7 @@
     "category": "pet",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-08-24",
+    "last_checked": "2026-08-31",
     "profile": "Pet supplement brand (part of H&H Group).",
     "key_facts": [
       {
@@ -273,7 +273,7 @@
     "category": "pet",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-08-24",
+    "last_checked": "2026-08-31",
     "profile": "London-based pet supplement brand, founded 2018 by Christopher Masanto. ~185 employees as of Apr 2026.",
     "key_facts": [
       {
@@ -292,7 +292,7 @@
     "category": "pet",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-08-24",
+    "last_checked": "2026-08-31",
     "profile": "Dog supplement brand based in Kortrijk, Belgium (legal entity Suppy BV). 100%-natural daily chewies for gut flora, skin/coat, teeth, joints, anal glands, and stress/behavior — gluten-free, grain-free. Sells direct via dogsuppy.com and dogsuppy.co.uk, active mainly in Benelux/UK. Resolved 2026-07-26 after being unidentifiable as 'Dog Supply Co.' in prior runs.",
     "key_facts": [
       {
@@ -318,7 +318,7 @@
     "category": "pet",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-08-24",
+    "last_checked": "2026-08-31",
     "profile": "NYC-based dog supplement brand, founded 2020 by James Shalhoub. ~11 employees as of May 2026. Product line: probiotics + multivitamins.",
     "key_facts": [],
     "geography": "US",
@@ -329,7 +329,7 @@
     "category": "pet",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-08-24",
+    "last_checked": "2026-08-31",
     "profile": "Limited public info found so far. Flagged 2026-08-17: baltousa.com reads as primarily an orthopedic-bracing brand (knee/elbow/carpal braces for arthritis, CCL tears, hip dysplasia), not a nutritional supplement brand — worth revisiting whether it's the right anchor for this pet-supplement watch list.",
     "key_facts": [
       {
@@ -411,7 +411,7 @@
     "category": "human",
     "status": "discovered",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-07-27",
+    "last_checked": "2026-08-31",
     "profile": "Creatine monohydrate gummy brand founded Dec 2022 by Dan and Sienna McCormick (ex-Away, Parade, Not Boring; ex-Goldman Sachs). First-mover on a gummy format for creatine, a category traditionally sold as powder/capsule. Section 2 Brand Spotlight, 2026-07-27 run.",
     "key_facts": [
       {
@@ -438,6 +438,11 @@
         "date": "2026-07-15",
         "fact": "Launched a new 'Sour Grape' flavor.",
         "source": "https://drugstorenews.com/news-briefs/2026-07-15?article=create-wellness-debuts-sour-grape-creatine-gummies"
+      },
+      {
+        "date": "2026-08-27",
+        "fact": "Expanded its Creatine + Electrolytes Mix line with a new 'Lemonade Collection' (5g creatine, 800mg electrolytes, 1000mg taurine per stick).",
+        "source": "https://drugstorenews.com/news-briefs/2026-08-27?article=create-wellness-expands-creatine-electrolytes-mix-line"
       }
     ],
     "geography": "US (DTC + mass/specialty retail; no international expansion reported)",
@@ -956,6 +961,140 @@
       "https://www.nutraingredients.com/Article/2026/06/23/tiktok-shops-largest-health-beauty-category-supplements/",
       "https://www.fastmoss.com/shop-marketing/detail/7494949083499694765",
       "https://www.trustpilot.com/review/microingredients.com"
+    ]
+  },
+  "Applied Nutrition": {
+    "display_name": "Applied Nutrition (LSE: APN)",
+    "category": "human",
+    "status": "discovered",
+    "first_seen": "2026-08-31",
+    "last_checked": "2026-08-31",
+    "profile": "UK publicly-traded sports-nutrition/supplement company (LSE: APN), founded 2014 by Thomas Ryder; went public October 2024. Coleen Rooney is both an investor and brand ambassador. Section 1 headline, 2026-08-31 run.",
+    "key_facts": [
+      {
+        "date": "2026-08-26",
+        "fact": "FY26 (year ended Jul 31, 2026) revenue £160M (+50% YoY, beat £148.4M consensus); adjusted EBITDA ~£43.3M (+40% YoY, also ahead of consensus). Net cash £15.9M after Nutrablend trade-and-assets acquisition (US manufacturing platform). FY27 guidance: revenue ~£205M, adjusted EBITDA ~£49M (+13%), though whey protein cost inflation expected to compress margin slightly. Market cap ~£853M six months prior; would cross £1bn at a 400p share price.",
+        "source": "https://www.grocerygazette.co.uk/2026/08/26/applied-nutrition-posts-strong-full-year-results-raises-outlook/"
+      },
+      {
+        "date": "2026 (Aug rollout)",
+        "fact": "North American licensing deal with Mondelez International (Sour Patch Kids / Swedish Fish co-branded sports-nutrition line via its ABE brand), rolling out to ~2,200 Walmart and ~1,300 GNC locations; full GNC availability Sept 1, 2026.",
+        "source": "https://blog.priceplow.com/supplement-news/applied-nutrition-sour-patch-kids"
+      }
+    ],
+    "geography": "UK, with US manufacturing (Nutrablend) and North American retail (Walmart, GNC)",
+    "sources": [
+      "https://www.grocerygazette.co.uk/2026/08/26/applied-nutrition-posts-strong-full-year-results-raises-outlook/",
+      "https://businesscloud.co.uk/news/applied-nutrition-beats-forecasts-as-it-eyes-1bn-milestone/",
+      "https://www.investegate.co.uk/announcement/rns/applied-nutrition-plc--apn/fy26-trading-update/9739893"
+    ]
+  },
+  "Host Defense": {
+    "display_name": "Host Defense",
+    "category": "pet",
+    "status": "discovered",
+    "first_seen": "2026-08-31",
+    "last_checked": "2026-08-31",
+    "profile": "Established functional-mushroom human-supplement brand (Fungi Perfecti) making its first entry into pet supplements.",
+    "key_facts": [
+      {
+        "date": "2026-08-19",
+        "fact": "Launched Immune & Whole-Body Support, a daily mushroom-mycelium powder for dogs/cats (Lion's Mane, Reishi, Turkey Tail, Chaga, Maitake), grown on the company's own Pacific Northwest farm. Available at HostDefense.com and participating retailers nationwide.",
+        "source": "http://www.prnewswire.com/news-releases/host-defense-launches-new-functional-mushroom-supplement-for-pets-302855699.html"
+      }
+    ],
+    "geography": "US",
+    "sources": [
+      "http://www.prnewswire.com/news-releases/host-defense-launches-new-functional-mushroom-supplement-for-pets-302855699.html",
+      "https://www.nutritioninsight.com/news/host-defense-functional-mushrooms-immunity-dogs-cats.html"
+    ]
+  },
+  "O Positiv Health": {
+    "display_name": "O Positiv Health",
+    "category": "human",
+    "status": "discovered",
+    "first_seen": "2026-08-31",
+    "last_checked": "2026-08-31",
+    "profile": "Women's wellness supplement brand (prior known product: Willo hair-growth capsules); expanding its hair-health line.",
+    "key_facts": [
+      {
+        "date": "2026-08-18",
+        "fact": "Launched URO Hair Growth + Volume, a once-daily capsule targeting hair thinning/shedding (featuring Serevelle), DTC-exclusive at opositiv.com, $36.99.",
+        "source": "https://www.cosmeticsandtoiletries.com/formulas-products/nutricosmetics/news/22972585/o-positiv-health-launches-uro-hair-growth-volume-to-address-common-causes-of-hair-loss"
+      }
+    ],
+    "geography": "US",
+    "sources": [
+      "https://www.cosmeticsandtoiletries.com/formulas-products/nutricosmetics/news/22972585/o-positiv-health-launches-uro-hair-growth-volume-to-address-common-causes-of-hair-loss",
+      "https://www.prnewswire.com/news-releases/o-positiv-health-launches-uro-hair-growth--volume-to-address-common-causes-of-hair-loss-in-women-302853352.html"
+    ]
+  },
+  "Mila": {
+    "display_name": "Mila",
+    "category": "human",
+    "status": "discovered",
+    "first_seen": "2026-08-31",
+    "last_checked": "2026-08-31",
+    "profile": "Female-founded (Kim Aviv, Ada Trujillo) design-led intimate/sexual-wellness brand. Products include patent-pending Aura device and Bloom hydrating intimate mist.",
+    "key_facts": [
+      {
+        "date": "2026-06-30",
+        "fact": "Raised an oversubscribed $2.5M pre-seed (Mensch VC-led, with Sticker Ventures and angels from Spotify/Dyson/Tetra Pak/BrewDog); expanding into Ulta Beauty, Whole Foods, and The Vitamin Shoppe; targeting $40M in 2026 sales.",
+        "source": "https://www.forbes.com/sites/tanyabenedictoklich/2026/06/30/mila-raises-25-million-pre-seed-to-market-intimate-wellness-as-an-integral-element-of-daily-self-care/"
+      }
+    ],
+    "geography": "US",
+    "sources": [
+      "https://www.forbes.com/sites/tanyabenedictoklich/2026/06/30/mila-raises-25-million-pre-seed-to-market-intimate-wellness-as-an-integral-element-of-daily-self-care/",
+      "https://femtechinsider.com/mila-raises-2-5m-pre-seed-to-build-design-led-intimate-wellness-brand/"
+    ]
+  },
+  "Cymbiotika": {
+    "display_name": "Cymbiotika",
+    "category": "human",
+    "status": "discovered",
+    "first_seen": "2026-08-31",
+    "last_checked": "2026-08-31",
+    "profile": "San Diego liposomal-supplement brand, co-founded 2019 by Shahab and Durana Elmi (building on a company originally started by Chervin Jafarieh in 2018). Bootstrapped to $150M 2025 revenue before raising outside capital. Section 2 Brand Spotlight, 2026-08-31 run — see key_facts for full growth trajectory.",
+    "key_facts": [
+      {
+        "date": "2025 (full year)",
+        "fact": "Reached $150M in annual revenue, fully bootstrapped with no outside capital.",
+        "source": "https://fortune.com/2026/07/20/how-durana-elmi-grew-cymbiotika-150-million-revenue-backed-by-celebrites-wellness-supplements-vitamins/"
+      },
+      {
+        "date": "2026-01",
+        "fact": "Raised a $25M seed round from celebrity-fan investors (Kendall Jenner, Hailey Bieber, The Weeknd, Zac Efron, Steve Aoki, the Jonas Brothers); guiding to $250M revenue in its seventh year (2026).",
+        "source": "https://www.nutraingredients.com/Article/2026/01/28/cymbiotika-scales-to-millions-while-tapping-into-the-modern-wellness-movement/"
+      },
+      {
+        "date": "2026-01-26 / 2026-03-26",
+        "fact": "Nationwide launch at Target (largest retail expansion to date, first big-box entry) followed by Ulta Beauty launch.",
+        "source": "https://www.forbes.com/sites/gabbyshacknai/2026/01/26/cymbiotika-goes-mainstream-inside-the-wellness-brands-target-expansion-and-celebrity-backed-growth/"
+      },
+      {
+        "date": "2026-05",
+        "fact": "Launched at Whole Foods Market nationwide; total retail footprint now exceeds 3,500 locations globally.",
+        "source": "https://www.morningstar.com/news/pr-newswire/20260521la64846/cymbiotika-launches-at-select-whole-foods-market-stores-nationwide-bringing-premium-liposomal-supplements-to-the-grocery-aisle"
+      },
+      {
+        "date": "2026-08-11",
+        "fact": "TikTok/Instagram influencer Alix Earle (14M+ followers) took an equity stake after years of organic product use; will create education-driven content across TikTok/Instagram/YouTube, with a possible co-branded product to follow.",
+        "source": "https://wwd.com/beauty-industry-news/wellness/alix-earle-cymbiotika-investment-wellness-influencer-1239099637/"
+      },
+      {
+        "date": "2026-08-31",
+        "fact": "Balance note: Trustpilot shows mixed sentiment (792 reviews) with recurring complaints on subscription-cancellation friction and shipping-seal damage. No lawsuit/FTC action found. International: UK e-commerce since 2022, UAE since May 2023, EU named by CEO as the brand's next major expansion target.",
+        "source": "https://www.trustpilot.com/review/cymbiotika.com"
+      }
+    ],
+    "geography": "US (San Diego HQ); UK, UAE live; EU expansion targeted",
+    "sources": [
+      "https://fortune.com/2026/07/20/how-durana-elmi-grew-cymbiotika-150-million-revenue-backed-by-celebrites-wellness-supplements-vitamins/",
+      "https://www.nutraingredients.com/Article/2026/01/28/cymbiotika-scales-to-millions-while-tapping-into-the-modern-wellness-movement/",
+      "https://www.inc.com/jennifer-conrad/fast-growing-supplements-brand-cymbiotika-adds-alix-earle-as-an-investor/91388691",
+      "https://beautymatter.com/articles/cymbiotikas-next-chapter-from-dtc-disruptor-to-prestige-player",
+      "https://www.sdbj.com/manufacturing/cymbiotika-expands-markets-products/"
     ]
   }
 }
