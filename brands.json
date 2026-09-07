@@ -4,7 +4,7 @@
     "category": "human",
     "status": "anchor",
     "first_seen": "2026-08-10",
-    "last_checked": "2026-08-31",
+    "last_checked": "2026-09-07",
     "profile": "UK (London-based) functional-beverage brand — premium coffee and ceremonial matcha fortified with added nutrients (collagen or vegan collagen, creatine, 21 vitamins/minerals). Add-on line includes creatine powder, fiber powder, functional mushrooms (Lion's Mane, Tremella), and ashwagandha. All-natural, gluten-free, dairy-free, no artificial sweeteners/added sugar. Added directly by Pavel 2026-08-10 (not yet independently discovered via the weekly scan) — treat as an anchor going forward.",
     "key_facts": [
       {
@@ -24,7 +24,7 @@
     "category": "human",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-08-31",
+    "last_checked": "2026-09-07",
     "profile": "Daily greens gummy brand, founded 2023 by Chad Janis. Scaled to $300M ARR in under 4 years; 95% of customers use the product 4-6x/week; ships 10M gummies/day; in 7,000 retail doors. Product line expanded with Grüns Kids (2024), Nütrops (cognitive, 2024), Immün (immune, 2025), Jüced (energy, 2025).",
     "key_facts": [
       {
@@ -44,7 +44,7 @@
     "category": "human",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-08-31",
+    "last_checked": "2026-09-07",
     "profile": "David Beckham-backed longevity/health-drink brand under parent Prenetics. Flagship product: Daily Ultimate Essentials. Section 2 Brand Spotlight, 2026-08-17 run — see key_facts for the full growth trajectory.",
     "key_facts": [
       {
@@ -117,7 +117,7 @@
     "category": "human",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-08-31",
+    "last_checked": "2026-09-07",
     "profile": "Berlin-founded (2020) DTC functional beverage brand — powdered energy drinks, hydration mixes, iced teas in sachet/tub format, mixed at home. Positions against canned incumbents (Monster, Red Bull) on cost/shipping-weight economics.",
     "key_facts": [
       {
@@ -244,7 +244,7 @@
     "category": "pet",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-08-31",
+    "last_checked": "2026-09-07",
     "profile": "Pet supplement brand (part of H&H Group).",
     "key_facts": [
       {
@@ -273,7 +273,7 @@
     "category": "pet",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-08-31",
+    "last_checked": "2026-09-07",
     "profile": "London-based pet supplement brand, founded 2018 by Christopher Masanto. ~185 employees as of Apr 2026.",
     "key_facts": [
       {
@@ -292,7 +292,7 @@
     "category": "pet",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-08-31",
+    "last_checked": "2026-09-07",
     "profile": "Dog supplement brand based in Kortrijk, Belgium (legal entity Suppy BV). 100%-natural daily chewies for gut flora, skin/coat, teeth, joints, anal glands, and stress/behavior — gluten-free, grain-free. Sells direct via dogsuppy.com and dogsuppy.co.uk, active mainly in Benelux/UK. Resolved 2026-07-26 after being unidentifiable as 'Dog Supply Co.' in prior runs.",
     "key_facts": [
       {
@@ -318,7 +318,7 @@
     "category": "pet",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-08-31",
+    "last_checked": "2026-09-07",
     "profile": "NYC-based dog supplement brand, founded 2020 by James Shalhoub. ~11 employees as of May 2026. Product line: probiotics + multivitamins.",
     "key_facts": [],
     "geography": "US",
@@ -329,17 +329,24 @@
     "category": "pet",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-08-31",
-    "profile": "Limited public info found so far. Flagged 2026-08-17: baltousa.com reads as primarily an orthopedic-bracing brand (knee/elbow/carpal braces for arthritis, CCL tears, hip dysplasia), not a nutritional supplement brand — worth revisiting whether it's the right anchor for this pet-supplement watch list.",
+    "last_checked": "2026-09-07",
+    "profile": "Limited public info found so far on baltousa.com, which reads as primarily an orthopedic-bracing brand (knee/elbow/carpal braces for arthritis, CCL tears, hip dysplasia), not a nutritional supplement brand — worth revisiting whether it's the right anchor for this pet-supplement watch list. ESCALATED 2026-09-07: a second, distinct 'Balto' also exists — a French/Benelux-market canine joint-health supplement (omega-3/EPA/DHA/vitamin E for osteoarthritis) sold under the Artonova brand via ortopetshop.com, unrelated to baltousa.com. Two different companies use the name in the pet space. Recommend a decision next run: split into two entries (Balto USA = bracing, Balto/Artonova EU = supplement) or replace baltousa.com as the anchor if it was never actually a supplement brand.",
     "key_facts": [
       {
         "date": "2025-11",
         "fact": "Cross-brand promotion with HealthyBud (\"Calm + Support\" pairing HealthyBud Calming Aid with Balto Bracing).",
         "source": "unconfirmed — surfaced via aggregator, not a primary source"
+      },
+      {
+        "date": "2026-09-07",
+        "fact": "Identified a separate, unrelated 'Balto' (Artonova) product — a canine joint-health/osteoarthritis supplement sold in France/Benelux via ortopetshop.com. Distinct legal entity/product from baltousa.com's bracing line.",
+        "source": "https://www.ortopetshop.com/food-supplements/294-balto-artonova-support-of-joint-metabolism-in-case-of-osteoarthritis.html"
       }
     ],
-    "geography": "unknown",
-    "sources": []
+    "geography": "unknown (baltousa.com: US bracing); Balto/Artonova: France/Benelux supplement",
+    "sources": [
+      "https://www.ortopetshop.com/food-supplements/294-balto-artonova-support-of-joint-metabolism-in-case-of-osteoarthritis.html"
+    ]
   },
   "Wuffes": {
     "display_name": "Wuffes",
@@ -375,13 +382,13 @@
     "category": "pet",
     "status": "discovered",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-07-26",
-    "profile": "New vet-formulated dog-supplement brand (mobility, digestion, joint, wellness), founded after co-founder's dog battled cancer and arthritis.",
+    "last_checked": "2026-09-07",
+    "profile": "US vet-formulated dog-supplement brand (mobility, digestion, joint, everyday wellness), co-founded by \"Matt\" after his German Shepherd Hans battled liver cancer and arthritis; formulas developed with Dr. Petar Petrov, DVM (20+ years animal-nutrition experience). Manufactured in FDA-registered, GMP-certified US facilities; free of soy, corn, artificial preservatives/flavors.",
     "key_facts": [
       {
-        "date": "~2026-07-17",
-        "fact": "Launched in the US.",
-        "source": "press release wire, exact outlet not confirmed"
+        "date": "2026-07-17/19",
+        "fact": "Launched in the US, syndicated across local-news press-release wires and openpr.com; confirmed still the same brand re-surfacing in the 2026-09-07 discovery scan (no news since launch).",
+        "source": "https://www.openpr.com/news/4580459/new-pet-wellness-brand-paws-whiskers-launches-following"
       }
     ],
     "geography": "US",
@@ -1095,6 +1102,103 @@
       "https://www.inc.com/jennifer-conrad/fast-growing-supplements-brand-cymbiotika-adds-alix-earle-as-an-investor/91388691",
       "https://beautymatter.com/articles/cymbiotikas-next-chapter-from-dtc-disruptor-to-prestige-player",
       "https://www.sdbj.com/manufacturing/cymbiotika-expands-markets-products/"
+    ]
+  },
+  "Nature's Bounty": {
+    "display_name": "Nature's Bounty",
+    "category": "human",
+    "status": "discovered",
+    "first_seen": "2026-09-07",
+    "last_checked": "2026-09-07",
+    "profile": "Legacy mainstream vitamin/supplement brand, part of Nestlé's Health Science portfolio. Section 1 headline, 2026-09-07 run — Nestlé is divesting it along with Osteo Bi-Flex, Ester-C, Gard, Nuun, Puritan's Pride, Sisu, and its US private-label supplements business to PE firm Yellow Wood Partners for ~$1B. Nestlé retains its premium lines (Solgar, Pure Encapsulations).",
+    "key_facts": [
+      {
+        "date": "2026-09-01/03",
+        "fact": "Nestlé agreed to divest 7 mainstream vitamin/supplement brands (Nature's Bounty, Osteo Bi-Flex, Ester-C, Gard, Nuun, Puritan's Pride, Sisu) plus its US private-label supplements business and related manufacturing/distribution to Yellow Wood Partners for ~$1B. Divested portfolio did $1.2B in 2025 sales. Deal expected to close H1 2027.",
+        "source": "https://www.nutraingredients.com/Article/2026/09/03/nestles-natures-bounty-divestiture-highlights-gap-between-premium-and-legacy-brands/"
+      }
+    ],
+    "geography": "US",
+    "sources": [
+      "https://www.nutraingredients.com/Article/2026/09/03/nestles-natures-bounty-divestiture-highlights-gap-between-premium-and-legacy-brands/",
+      "https://www.spokesman.com/stories/2026/sep/01/nestle-to-divest-mainstream-supplements-business-f/",
+      "https://www.fooddive.com/news/nestle-sell-mainstream-vitamins-minerals-supplements-business-to-private-equity/829321/"
+    ]
+  },
+  "Twinlab": {
+    "display_name": "Twinlab",
+    "category": "human",
+    "status": "discovered",
+    "first_seen": "2026-09-07",
+    "last_checked": "2026-09-07",
+    "profile": "Legacy sports-nutrition/supplement brand (with sister brands Reserveage, Metabolife, Alvita Tea), reaches 50,000 retail outlets including GNC and Vitamin Shoppe. Section 1 headline, 2026-09-07 run — being acquired by cbdMD.",
+    "key_facts": [
+      {
+        "date": "2026-09-02",
+        "fact": "cbdMD entered a definitive agreement to acquire Twinlab, Reserveage, Metabolife, and Alvita Tea (~$30M combined TTM revenue, a ~40% lift to cbdMD's standalone revenue). Deal proceeds via an assignment-for-benefit-of-creditors process, subject to court approval.",
+        "source": "https://www.nutraingredients.com/Article/2026/09/02/cbdmd-acquires-legacy-supplement-brand-twinlab/"
+      }
+    ],
+    "geography": "US",
+    "sources": [
+      "https://www.nutraingredients.com/Article/2026/09/02/cbdmd-acquires-legacy-supplement-brand-twinlab/",
+      "https://www.prnewswire.com/news-releases/cbdmd-enters-definitive-agreement-to-acquire-twinlab-brands-expanding-into-legacy-supplements-sports-nutrition-womens-beauty-weight-loss-and-longevity-wellness-302867135.html",
+      "https://www.stocktitan.net/news/YCBD/cbd-md-enters-definitive-agreement-to-acquire-twinlab-brands-4perr1ohu7ge.html"
+    ]
+  },
+  "Momentous": {
+    "display_name": "Momentous",
+    "category": "human",
+    "status": "discovered",
+    "first_seen": "2026-09-07",
+    "last_checked": "2026-09-07",
+    "profile": "Park City/Jackson-based performance-supplement brand founded 2016 by former NFL lineman Jeff Byers and Rob Dyrdek. Differentiates via NSF Certified for Sport status across its full 50+ SKU line, DoD-backed research grants, and B2B/team-supply distribution (200+ pro/collegiate teams, NFL clubs, USA Rugby) alongside DTC subscriptions. Grew rapidly off a 2022 Huberman Lab podcast partnership and is now expanding into national retail (Vitamin Shoppe) after years as primarily direct-to-consumer. Section 2 Brand Spotlight, 2026-09-07 run.",
+    "key_facts": [
+      {
+        "date": "2026-08-11",
+        "fact": "Ranked No. 426 on the 2026 Inc. 5000 with 821% three-year revenue growth; fourth consecutive year on the list.",
+        "source": "https://secure.businesswire.com/news/home/20260811135982/en/Momentous-Named-to-the-Inc.-5000-List-for-the-Fourth-Consecutive-Year-the-Most-Prestigious-Ranking-of-Americas-Fastest-Growing-Private-Companies"
+      },
+      {
+        "date": "2026-01-06",
+        "fact": "Announced exclusive nationwide retail rollout into The Vitamin Shoppe and Super Supplements (640+ locations), a shift from DTC-only toward omnichannel.",
+        "source": "https://secure.businesswire.com/news/home/20260106704316/en/Momentous-Announces-Retail-Partnership-with-Exclusive-Nationwide-Rollout-into-The-Vitamin-Shoppe"
+      },
+      {
+        "date": "2025 (undated within year)",
+        "fact": "Self-reported >$1M spent in 2025 on third-party testing/NSF certification; scrapped non-compliant lots of tongkat ali, ashwagandha, and collagen shot.",
+        "source": "https://www.livemomentous.com/blogs/news/the-momentous-standard-our-2025-commitment-to-raising-the-bar-in-supplements"
+      },
+      {
+        "date": "2025",
+        "fact": "Became official supplement partner of USA Rugby (men's and women's national teams).",
+        "source": "https://usa.rugby/news/momentous-joins-usa-rugby-as-official-supplement-partner-fueling-performance-for-both-mens-and-womens-national-teams-2025716"
+      },
+      {
+        "date": "2022",
+        "fact": "Entered multi-year partnership with Huberman Lab podcast; Dr. Andrew Huberman joined as scientific advisor — widely credited (industry commentary, not company-confirmed) with an early step-change in sales.",
+        "source": "https://www.prnewswire.com/news-releases/momentous-announces-a-multi-year-partnership-with-the-huberman-lab-podcast-and-dr-andrew-huberman-as-a-scientific-advisor-301532106.html"
+      },
+      {
+        "date": "2024-02-29",
+        "fact": "Received strategic investment from Humble Growth (~$32M reported); total funding to date ~$43.6M, modest relative to the growth claimed.",
+        "source": "https://www.businesswire.com/news/home/20240229259662/en/Momentous-Announces-Strategic-Partnership-With-Humble-Growth"
+      },
+      {
+        "date": "2026-09-07",
+        "fact": "Balance note: Trustpilot reviews polarized — recurring complaints on premium pricing (~$1/serving above category average) and subscription/international shipping friction. No FTC action or lawsuit found. Current-year total revenue could not be independently verified.",
+        "source": "https://www.trustpilot.com/review/livemomentous.com"
+      }
+    ],
+    "geography": "US (primary); UK via distributors Vielo/Healf; Canada via Cascade Gear/HLC",
+    "sources": [
+      "https://secure.businesswire.com/news/home/20260811135982/en/Momentous-Named-to-the-Inc.-5000-List-for-the-Fourth-Consecutive-Year-the-Most-Prestigious-Ranking-of-Americas-Fastest-Growing-Private-Companies",
+      "https://secure.businesswire.com/news/home/20260106704316/en/Momentous-Announces-Retail-Partnership-with-Exclusive-Nationwide-Rollout-into-The-Vitamin-Shoppe",
+      "https://www.livemomentous.com/blogs/news/the-momentous-standard-our-2025-commitment-to-raising-the-bar-in-supplements",
+      "https://www.prnewswire.com/news-releases/momentous-announces-a-multi-year-partnership-with-the-huberman-lab-podcast-and-dr-andrew-huberman-as-a-scientific-advisor-301532106.html",
+      "https://usa.rugby/news/momentous-joins-usa-rugby-as-official-supplement-partner-fueling-performance-for-both-mens-and-womens-national-teams-2025716",
+      "https://www.trustpilot.com/review/livemomentous.com",
+      "https://www.businesswire.com/news/home/20240229259662/en/Momentous-Announces-Strategic-Partnership-With-Humble-Growth"
     ]
   }
 }
