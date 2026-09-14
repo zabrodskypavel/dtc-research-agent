@@ -4,19 +4,26 @@
     "category": "human",
     "status": "anchor",
     "first_seen": "2026-08-10",
-    "last_checked": "2026-09-07",
-    "profile": "UK (London-based) functional-beverage brand — premium coffee and ceremonial matcha fortified with added nutrients (collagen or vegan collagen, creatine, 21 vitamins/minerals). Add-on line includes creatine powder, fiber powder, functional mushrooms (Lion's Mane, Tremella), and ashwagandha. All-natural, gluten-free, dairy-free, no artificial sweeteners/added sugar. Added directly by Pavel 2026-08-10 (not yet independently discovered via the weekly scan) — treat as an anchor going forward.",
+    "last_checked": "2026-09-14",
+    "profile": "UK (London-based) functional-beverage brand — premium coffee and ceremonial matcha fortified with added nutrients (collagen or vegan collagen, creatine, 21 vitamins/minerals). Add-on line includes creatine powder, fiber powder, functional mushrooms (Lion's Mane, Tremella), and ashwagandha. All-natural, gluten-free, dairy-free, no artificial sweeteners/added sugar. Founded 2024 by Neil Saada and Neil Marrakchi. Added directly by Pavel 2026-08-10 (not yet independently discovered via the weekly scan) — treat as an anchor going forward.",
     "key_facts": [
       {
         "date": "2026-08-10",
         "fact": "118,000+ customer reviews at time of check; stocked at premium UK retailers (Selfridges, SILO, MAD) and available via delivery services (Zapp).",
         "source": "http://www.feelreformed.com/"
+      },
+      {
+        "date": "2026-07-13/14",
+        "fact": "Backfilled 2026-09-14 (a gap missed at the brand's 2026-08-10 library addition): closed a $22M Series A led by IRIS Ventures (JamJar Investments, V3, FoodLabs participating), oversubscribed. Scaled profitably to $70M ARR within two years on a ~14-person team; funds earmarked for leadership hires and a Q3 2026 US launch, targeting $100M revenue run-rate by end of 2026.",
+        "source": "https://wwd.com/beauty-industry-news/wellness/iris-ventures-funding-round-reformed-instant-coffee-matcha-1239058070/"
       }
     ],
     "geography": "UK",
     "sources": [
       "http://www.feelreformed.com/",
-      "https://www.trustpilot.com/review/feelreformed.com"
+      "https://www.trustpilot.com/review/feelreformed.com",
+      "https://wwd.com/beauty-industry-news/wellness/iris-ventures-funding-round-reformed-instant-coffee-matcha-1239058070/",
+      "https://dailycoffeenews.com/2026/07/14/functional-instant-coffee-seller-reformed-gets-22-million-round/"
     ]
   },
   "Gruns": {
@@ -24,7 +31,7 @@
     "category": "human",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-09-07",
+    "last_checked": "2026-09-14",
     "profile": "Daily greens gummy brand, founded 2023 by Chad Janis. Scaled to $300M ARR in under 4 years; 95% of customers use the product 4-6x/week; ships 10M gummies/day; in 7,000 retail doors. Product line expanded with Grüns Kids (2024), Nütrops (cognitive, 2024), Immün (immune, 2025), Jüced (energy, 2025).",
     "key_facts": [
       {
@@ -44,7 +51,7 @@
     "category": "human",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-09-07",
+    "last_checked": "2026-09-14",
     "profile": "David Beckham-backed longevity/health-drink brand under parent Prenetics. Flagship product: Daily Ultimate Essentials. Section 2 Brand Spotlight, 2026-08-17 run — see key_facts for the full growth trajectory.",
     "key_facts": [
       {
@@ -117,7 +124,7 @@
     "category": "human",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-09-07",
+    "last_checked": "2026-09-14",
     "profile": "Berlin-founded (2020) DTC functional beverage brand — powdered energy drinks, hydration mixes, iced teas in sachet/tub format, mixed at home. Positions against canned incumbents (Monster, Red Bull) on cost/shipping-weight economics.",
     "key_facts": [
       {
@@ -244,7 +251,7 @@
     "category": "pet",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-09-07",
+    "last_checked": "2026-09-14",
     "profile": "Pet supplement brand (part of H&H Group).",
     "key_facts": [
       {
@@ -273,7 +280,7 @@
     "category": "pet",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-09-07",
+    "last_checked": "2026-09-14",
     "profile": "London-based pet supplement brand, founded 2018 by Christopher Masanto. ~185 employees as of Apr 2026.",
     "key_facts": [
       {
@@ -292,7 +299,7 @@
     "category": "pet",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-09-07",
+    "last_checked": "2026-09-14",
     "profile": "Dog supplement brand based in Kortrijk, Belgium (legal entity Suppy BV). 100%-natural daily chewies for gut flora, skin/coat, teeth, joints, anal glands, and stress/behavior — gluten-free, grain-free. Sells direct via dogsuppy.com and dogsuppy.co.uk, active mainly in Benelux/UK. Resolved 2026-07-26 after being unidentifiable as 'Dog Supply Co.' in prior runs.",
     "key_facts": [
       {
@@ -318,7 +325,7 @@
     "category": "pet",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-09-07",
+    "last_checked": "2026-09-14",
     "profile": "NYC-based dog supplement brand, founded 2020 by James Shalhoub. ~11 employees as of May 2026. Product line: probiotics + multivitamins.",
     "key_facts": [],
     "geography": "US",
@@ -329,7 +336,7 @@
     "category": "pet",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-09-07",
+    "last_checked": "2026-09-14",
     "profile": "Limited public info found so far on baltousa.com, which reads as primarily an orthopedic-bracing brand (knee/elbow/carpal braces for arthritis, CCL tears, hip dysplasia), not a nutritional supplement brand — worth revisiting whether it's the right anchor for this pet-supplement watch list. ESCALATED 2026-09-07: a second, distinct 'Balto' also exists — a French/Benelux-market canine joint-health supplement (omega-3/EPA/DHA/vitamin E for osteoarthritis) sold under the Artonova brand via ortopetshop.com, unrelated to baltousa.com. Two different companies use the name in the pet space. Recommend a decision next run: split into two entries (Balto USA = bracing, Balto/Artonova EU = supplement) or replace baltousa.com as the anchor if it was never actually a supplement brand.",
     "key_facts": [
       {
@@ -1199,6 +1206,86 @@
       "https://usa.rugby/news/momentous-joins-usa-rugby-as-official-supplement-partner-fueling-performance-for-both-mens-and-womens-national-teams-2025716",
       "https://www.trustpilot.com/review/livemomentous.com",
       "https://www.businesswire.com/news/home/20240229259662/en/Momentous-Announces-Strategic-Partnership-With-Humble-Growth"
+    ]
+  },
+  "PetDomain": {
+    "display_name": "PetDomain (formerly ThorneVet)",
+    "category": "pet",
+    "status": "discovered",
+    "first_seen": "2026-09-14",
+    "last_checked": "2026-09-14",
+    "profile": "Family-owned veterinary-formulated pet-supplement maker, operating under the ThorneVet name for 25 years before rebranding to PetDomain and launching a consumer-facing identity Aug 4, 2026. Led by Kim and Alex Pearson, who took over ThorneVet's operations in 2019 and have run it independently of Thorne (the human-supplement brand, acquired separately by new ownership in 2023) ever since — the two brands share pre-2019 history but are now unrelated companies. Section 1a discovery, 2026-09-14 run.",
+    "key_facts": [
+      {
+        "date": "2026-08-04",
+        "fact": "Rebrand and consumer launch: 38 veterinarian-formulated products (joint health, longevity, digestive, calming), GMP-certified manufacturing in Vermont, independently lab-verified, used by 1,100+ veterinarians.",
+        "source": "https://www.einpresswire.com/article/931435455/after-25-years-behind-the-formula-petdomain-formerly-thornevet-steps-into-its-own-name"
+      }
+    ],
+    "geography": "US (Vermont manufacturing)",
+    "sources": [
+      "https://www.einpresswire.com/article/931435455/after-25-years-behind-the-formula-petdomain-formerly-thornevet-steps-into-its-own-name",
+      "https://www.petfoodindustry.com/pet-supplements-pro/supplements-supplier-brief/news/15833974/petdomain-rebrands-from-thornevet-launches-pet-supplements",
+      "https://petdomain.com/new-name-same-trusted-formulas/"
+    ]
+  },
+  "Pemi": {
+    "display_name": "Pemi",
+    "category": "human",
+    "status": "discovered",
+    "first_seen": "2026-09-14",
+    "last_checked": "2026-09-14",
+    "profile": "New women-founded DTC wellness brand targeting perimenopause specifically. Flagship line: three oral dissolving strips (mood, mental clarity, sleep) using clinically studied ingredients. Section 1a discovery, 2026-09-14 run.",
+    "key_facts": [
+      {
+        "date": "2026-09-04",
+        "fact": "Official launch, shipping direct-to-consumer across the US.",
+        "source": "https://www.globenewswire.com/news-release/2026/09/04/3356830/0/en/pemi-launches-a-new-women-s-daily-supplement-routine-built-specifically-for-perimenopause.html"
+      }
+    ],
+    "geography": "US",
+    "sources": [
+      "https://www.globenewswire.com/news-release/2026/09/04/3356830/0/en/pemi-launches-a-new-women-s-daily-supplement-routine-built-specifically-for-perimenopause.html"
+    ]
+  },
+  "Native Pet": {
+    "display_name": "Native Pet",
+    "category": "pet",
+    "status": "discovered",
+    "first_seen": "2026-09-14",
+    "last_checked": "2026-09-14",
+    "profile": "St. Louis clean-label pet-supplement brand founded 2017 by childhood friends Dan Schaefer (CEO) and Pat Barron. Flagship product The Daily (mobility/energy/gut/skin-coat chew) earned Clean Label Project certification in 2025 (150+ contaminants tested). Built digital-first before entering physical retail in early 2024 (Tractor Supply), since expanded to PetSmart, Target, CVS, and specialty/natural grocery — 13,000+ retail locations total, alongside Amazon/Chewy/Thrive Market DTC. Section 2 Brand Spotlight, 2026-09-14 run — first pet-supplement brand used for this section (all prior spotlights were human-supplement brands).",
+    "key_facts": [
+      {
+        "date": "2026 Inc. 5000",
+        "fact": "Ranked No. 890 on the 2026 Inc. 5000 with 390.7% three-year revenue growth.",
+        "source": "https://www.aol.com/articles/native-pet-ranks-no-890-140100000.html"
+      },
+      {
+        "date": "2022",
+        "fact": "$11M Series B led by CAVU Consumer Partners (other investors include Mars Inc., Starshot Ventures, Ando Consulting Group, Passive Impact); total funding to date ~$30.5M.",
+        "source": "https://www.prnewswire.com/news-releases/native-pet-continues-to-reinforce-commitment-to-pet-health-announces-11-million-in-series-b-funding-301898037.html"
+      },
+      {
+        "date": "2026 (recent)",
+        "fact": "Hired its first-ever Chief Marketing Officer (Ariel Stoddard), described as a deliberate step from category challenger to fully scaled consumer brand.",
+        "source": "https://www.petfoodprocessing.net/articles/20695-native-pet-names-first-chief-marketing-officer"
+      },
+      {
+        "date": "2026-09-14",
+        "fact": "Balance note: mixed Trustpilot reviews — recurring complaints on customer-service responsiveness, order fulfillment, and subscription-billing friction (one cited case: $272.99 charged for an unfulfilled order, partially refunded after 2 weeks), alongside genuine efficacy complaints on some SKUs (calming gummies, some probiotics) mixed with strongly positive results reported for others. No lawsuit/FTC action found.",
+        "source": "https://www.trustpilot.com/review/nativepet.com"
+      }
+    ],
+    "geography": "US (no international retail or DTC expansion found)",
+    "sources": [
+      "https://www.aol.com/articles/native-pet-ranks-no-890-140100000.html",
+      "https://www.petage.com/colorado-identity-pet-nutrition-inc-5000/",
+      "https://www.prnewswire.com/news-releases/native-pet-continues-to-reinforce-commitment-to-pet-health-announces-11-million-in-series-b-funding-301898037.html",
+      "https://www.petfoodprocessing.net/articles/20695-native-pet-names-first-chief-marketing-officer",
+      "https://www.petfoodindustry.com/news-newsletters/pet-food-news/news/15667362/native-pet-native-pet-doubles-footprint-with-tractor-supply-partnership",
+      "https://www.trustpilot.com/review/nativepet.com",
+      "https://tracxn.com/d/companies/nativepet/__kqCaNlDB7Fc-hAJSCgl_vLB53_-t0Tg6I_SIVSisodo/funding-and-investors"
     ]
   }
 }
