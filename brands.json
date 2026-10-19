@@ -1832,5 +1832,64 @@
     "sources": [
       "https://vegconomist.com/investments-finance/uk-vegan-pet-supplement-brand-shevega-launches-crowdfunding-campaign/"
     ]
+  },
+  "The Stack": {
+    "display_name": "The Stack",
+    "category": "human",
+    "status": "discovered",
+    "first_seen": "2026-10-19",
+    "last_checked": "2026-10-19",
+    "profile": "Goa-based India D2C supplements brand, founded 2024 by Shreya Jain and Kshitij Rihal. Tight SKU count (5 products: sleep, gut, functional health). Found via Section 1/1a discovery scan, 2026-10-19 run.",
+    "key_facts": [
+      {
+        "date": "2026-01",
+        "fact": "Closed ₹5.5 Cr pre-seed (OTP Ventures, Huddle Ventures), valuing the company at ~₹27.5 Cr.",
+        "source": "https://entrackr.com/snippets/supplements-brand-the-stack-raises-pre-seed-funding-11037047"
+      },
+      {
+        "date": "2026-10-14",
+        "fact": "Raised ₹21.5 Cr (~$2.3-2.6M, sources vary) seed round co-led by Sauce, OTP Ventures and Huddle Ventures, with AYRA Ventures participating; valuation/stake undisclosed. Says it has grown 5x in 6 months and targets 6-7x growth in FY26-27.",
+        "source": "https://india.entrepreneur.com/business-news/the-stack-raises-inr-215-cr-led-by-sauce-otp-huddle"
+      }
+    ],
+    "geography": "India",
+    "sources": [
+      "https://india.entrepreneur.com/business-news/the-stack-raises-inr-215-cr-led-by-sauce-otp-huddle",
+      "https://inc42.com/?p=576263",
+      "https://entrackr.com/snippets/supplements-brand-the-stack-raises-pre-seed-funding-11037047"
+    ]
+  },
+  "Neutonic": {
+    "display_name": "Neutonic",
+    "category": "human",
+    "status": "discovered",
+    "first_seen": "2026-10-19",
+    "last_checked": "2026-10-19",
+    "profile": "UK nootropic functional-beverage and supplement brand ('world's first productivity drink'), founded Nov 2023 by influencers Chris Williamson (Modern Wisdom podcast) and James Smith, with manager Luke Betts and Genflow CEO Shan Hanif. Clinically-dosed nootropic RTD cans plus a powder/supplement line, pitched at focus/energy without a crash. Growth is squarely founder-audience-driven (Williamson's podcast functions as a built-in acquisition funnel). Considered and passed over for Section 2 Brand Spotlight, 2026-10-19 run, in favor of AG1 -- flagged here as a strong candidate for a future run.",
+    "key_facts": [
+      {
+        "date": "2025 (full year)",
+        "fact": "Revenue grew from $4M (2024) to $8M (2025); 2026 target $25M+ (tripling) -- company projection, not yet realized.",
+        "source": "https://www.just-drinks.com/newsletters/neutonic-aims-to-triple-revenue-on-global-retail-expansion"
+      },
+      {
+        "date": "2026-04-28",
+        "fact": "Raised $6M at a $60M valuation (angels incl. Codie Sanchez, Kayla Itsines, Grenade founder Alan Barrett; JDI Investments) to fund UK/US retail expansion and an Australia launch. Prior raise: $3.7M at $20M valuation (Jul 2025).",
+        "source": "https://bevnet.com/pr/2026/04/28/neutonic-raises-6m-at-a-60m-valuation-to-accelerate-global-expansion-across-retail-and-new-markets"
+      },
+      {
+        "date": "2026 (ongoing)",
+        "fact": "10,000+ retail doors globally; UK via 500 Sainsbury's stores (meal deal), US via GNC/Vitamin Shoppe/Central Market. Trustpilot ~4.5-4.8/5 across regions; complaints are service/taste, not safety. No lawsuits/FTC action found; revenue figures are company-self-reported.",
+        "source": "https://www.just-drinks.com/newsletters/neutonic-aims-to-triple-revenue-on-global-retail-expansion"
+      }
+    ],
+    "geography": "UK, expanding US/Australia",
+    "sources": [
+      "https://www.nutraingredients.com/Article/2025/07/01/tapping-into-the-productivity-market-how-two-influencers-built-a-20m-nootropic-brand/",
+      "https://www.bevnet.com/news/2025/influencer-backed-productivity-drink-neutonic-secures-3-7m-to-kickstart-u-s-move",
+      "https://www.just-drinks.com/newsletters/neutonic-aims-to-triple-revenue-on-global-retail-expansion",
+      "https://pulse2.com/neutonic-6-million-raised-at-60-million-valuation-to-accelerate-global-retail-expansion/",
+      "https://uk.trustpilot.com/review/neutonic.com"
+    ]
   }
 }
