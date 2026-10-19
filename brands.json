@@ -4,7 +4,7 @@
     "category": "human",
     "status": "anchor",
     "first_seen": "2026-08-10",
-    "last_checked": "2026-10-12",
+    "last_checked": "2026-10-19",
     "profile": "UK (London-based) functional-beverage brand — premium coffee and ceremonial matcha fortified with added nutrients (collagen or vegan collagen, creatine, 21 vitamins/minerals). Add-on line includes creatine powder, fiber powder, functional mushrooms (Lion's Mane, Tremella), and ashwagandha. All-natural, gluten-free, dairy-free, no artificial sweeteners/added sugar. Founded 2024 by Neil Saada and Neil Marrakchi. Added directly by Pavel 2026-08-10 (not yet independently discovered via the weekly scan) — treat as an anchor going forward.",
     "key_facts": [
       {
@@ -31,7 +31,7 @@
     "category": "human",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-10-12",
+    "last_checked": "2026-10-19",
     "profile": "Daily greens gummy brand, founded 2023 by Chad Janis. Scaled to $300M ARR in under 4 years; 95% of customers use the product 4-6x/week; ships 10M gummies/day; in 7,000 retail doors. Product line expanded with Grüns Kids (2024), Nütrops (cognitive, 2024), Immün (immune, 2025), Jüced (energy, 2025).",
     "key_facts": [
       {
@@ -56,7 +56,7 @@
     "category": "human",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-10-12",
+    "last_checked": "2026-10-19",
     "profile": "David Beckham-backed longevity/health-drink brand under parent Prenetics. Flagship product: Daily Ultimate Essentials. Section 2 Brand Spotlight, 2026-08-17 run — see key_facts for the full growth trajectory.",
     "key_facts": [
       {
@@ -129,7 +129,7 @@
     "category": "human",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-10-12",
+    "last_checked": "2026-10-19",
     "profile": "Berlin-founded (2020) DTC functional beverage brand — powdered energy drinks, hydration mixes, iced teas in sachet/tub format, mixed at home. Positions against canned incumbents (Monster, Red Bull) on cost/shipping-weight economics.",
     "key_facts": [
       {
@@ -256,7 +256,7 @@
     "category": "pet",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-10-12",
+    "last_checked": "2026-10-19",
     "profile": "Pet supplement brand (part of H&H Group).",
     "key_facts": [
       {
@@ -285,13 +285,18 @@
     "category": "pet",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-10-12",
+    "last_checked": "2026-10-19",
     "profile": "London-based pet supplement brand, founded 2018 by Christopher Masanto. ~185 employees as of Apr 2026.",
     "key_facts": [
       {
         "date": "2025",
         "fact": "BC Partners acquired a majority stake.",
         "source": "https://www.bcpartners.com/news/bc-partners-acquires-a-majority-stake-in-premium-animal-health-brand-petlab-co/"
+      },
+      {
+        "date": "2026-10-13",
+        "fact": "Launched NeuraBlend Calming Chew, its first calming product — a melatonin-free, pork-flavored daily soft chew with 10 active ingredients (incl. PRIOME MW postbiotic, KSM-66 ashwagandha) targeting gut-brain, stress-response, neurotransmitter, and botanical pathways; positioned ahead of holiday travel/fireworks season.",
+        "source": "https://business-news-today.com/petlabco-enters-the-dog-calming-market-with-10-ingredient-neurablend-as-holiday-travel-approaches/"
       }
     ],
     "geography": "UK",
@@ -304,7 +309,7 @@
     "category": "pet",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-10-12",
+    "last_checked": "2026-10-19",
     "profile": "Dog supplement brand based in Kortrijk, Belgium (legal entity Suppy BV). 100%-natural daily chewies for gut flora, skin/coat, teeth, joints, anal glands, and stress/behavior — gluten-free, grain-free. Sells direct via dogsuppy.com and dogsuppy.co.uk, active mainly in Benelux/UK. Resolved 2026-07-26 after being unidentifiable as 'Dog Supply Co.' in prior runs.",
     "key_facts": [
       {
@@ -335,7 +340,7 @@
     "category": "pet",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-10-12",
+    "last_checked": "2026-10-19",
     "profile": "NYC-based dog supplement brand, founded 2020 by James Shalhoub. ~11 employees as of May 2026. Product line: probiotics + multivitamins.",
     "key_facts": [],
     "geography": "US",
@@ -346,7 +351,7 @@
     "category": "pet",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-10-12",
+    "last_checked": "2026-10-19",
     "profile": "Limited public info found so far on baltousa.com, which reads as primarily an orthopedic-bracing brand (knee/elbow/carpal braces for arthritis, CCL tears, hip dysplasia), not a nutritional supplement brand — worth revisiting whether it's the right anchor for this pet-supplement watch list. ESCALATED 2026-09-07: a second, distinct 'Balto' also exists — a French/Benelux-market canine joint-health supplement (omega-3/EPA/DHA/vitamin E for osteoarthritis) sold under the Artonova brand via ortopetshop.com, unrelated to baltousa.com. Two different companies use the name in the pet space. Recommend a decision next run: split into two entries (Balto USA = bracing, Balto/Artonova EU = supplement) or replace baltousa.com as the anchor if it was never actually a supplement brand. Re-checked 2026-10-12: could not independently re-confirm the Artonova/French joint-supplement side of this flag exists at all (searched directly in English and French, zero mentions of 'Artonova' tied to a Balto product found) -- downgrading confidence on that half of the standing disambiguation flag; the US bracing brand (baltousa.com) remains confirmed real. Recommend re-verifying or retiring the Artonova claim next run rather than continuing to carry it unchanged.",
     "key_facts": [
       {
@@ -688,20 +693,29 @@
     "category": "human",
     "status": "discovered",
     "first_seen": "2026-08-10",
-    "last_checked": "2026-08-10",
-    "profile": "Premium/clinical-grade supplement brand, owned by L Catterton (went private 2023).",
+    "last_checked": "2026-10-19",
+    "profile": "Premium/clinical-grade supplement brand, owned by L Catterton (went private 2023). Section 2 Brand Spotlight, 2026-10-19 run — see key_facts for the full growth trajectory.",
     "key_facts": [
       {
         "date": "2026-08-04",
         "fact": "P&G agreed to acquire Thorne for $3.8B, beating out Unilever and Haleon. Thorne surpassed $500M revenue in 2025, on pace for ~$650M in 2026 (~30%+ CAGR since going private); ~60% of revenue now from under-40 consumers. Deal expected to close Q4 2026.",
         "source": "https://www.nutraingredients.com/Article/2026/08/04/pg-to-acquire-thorne-in-premium-wellness-play/"
+      },
+      {
+        "date": "2026-10-19",
+        "fact": "Section 2 spotlight research: revenue grew from $229M (2022) to a ~$650M run-rate (2026, per CEO Colin Watts) — ~2.8x in four years; DTC customers grew from 4M to 7M over the same period. ~60% of revenue from under-40 buyers. CGO Mary Beech shifted marketing from low-consideration-buyer chasing toward full-funnel brand building (creative campaigns, Reddit AMAs) while keeping a separate Fullscript-powered B2B practitioner channel. Thorne.com subscriptions up ~60% YoY. Balance note: weak 2/5 Trustpilot (77 unsolicited reviews, shipping/CS/cancellation complaints) but A+ BBB; no FTC action or consumer lawsuit found — Thorne itself has sued counterfeit Amazon sellers.",
+        "source": "https://www.modernretail.co/marketing/how-thorne-drove-63-growth-in-dtc-sales-after-a-brand-awareness-push/"
       }
     ],
     "geography": "US",
     "sources": [
       "https://www.nutraingredients.com/Article/2026/08/04/pg-to-acquire-thorne-in-premium-wellness-play/",
       "https://www.nutritionaloutlook.com/view/procter-gamble-to-acquire-thorne-f3-8-billion",
-      "https://www.cnbc.com/2026/08/04/procter-gamble-will-acquire-supplements-brand-thorne.html"
+      "https://www.cnbc.com/2026/08/04/procter-gamble-will-acquire-supplements-brand-thorne.html",
+      "https://www.newhope.com/industry-news/thorne-ceo-colin-watts-wins-management-achievement-award-for-driving-growth-to-650m-in-revenue",
+      "https://www.ypulse.com/newsfeed/2026/04/06/supplement-brand-thorne-is-on-track-to-reach-650m-in-sales-this-year-and-its-ceo-says-its-all-thanks-to-young-adults/",
+      "https://www.modernretail.co/marketing/how-thorne-drove-63-growth-in-dtc-sales-after-a-brand-awareness-push/",
+      "https://www.trustpilot.com/review/www.thorne.com"
     ]
   },
   "Ritual": {
@@ -843,13 +857,18 @@
     "category": "pet",
     "status": "discovered",
     "first_seen": "2026-08-17",
-    "last_checked": "2026-08-17",
-    "profile": "US subsidiary of Yuyu Pharma (Korean pharmaceutical company), operating the \"Feline First\" cat-supplement line. A portfolio company of UCLA's Magnify Incubator (California NanoSystems Institute).",
+    "last_checked": "2026-10-19",
+    "profile": "US subsidiary of Yuyu Pharma (Korean pharmaceutical company), operating the \"Feline First\" cat-supplement line (brand-facing name: Ari's Purrfect). A portfolio company of UCLA's Magnify Incubator (California NanoSystems Institute).",
     "key_facts": [
       {
         "date": "2026-08-13",
         "fact": "Launched its second Feline First product — Ari's Purrfect Omega+Multivitamin Lickable Cat Food Supplement — on Amazon, timed to its one-year Magnify Incubator anniversary.",
         "source": "https://www.prnewswire.com/news-releases/mervyns-petcare-marks-one-year-at-magnify-incubator-on-ucla-campus-with-launch-of-second-feline-supplement-on-amazon-302850672.html"
+      },
+      {
+        "date": "2026-10-13",
+        "fact": "Introduced its \"Feline First\" wellness brand (Dental Bites + Omega+Multivitamin Lickable) at CatCon under the consumer-facing name Ari's Purrfect.",
+        "source": "https://www.prnewswire.com/news-releases/aris-purrfect-introduces-its-feline-first-wellness-brand-at-catcon-302906730.html"
       }
     ],
     "geography": "US",
@@ -882,19 +901,47 @@
     "category": "human",
     "status": "discovered",
     "first_seen": "2026-08-17",
-    "last_checked": "2026-08-17",
+    "last_checked": "2026-10-19",
     "profile": "Daily greens/foundational-nutrition powder brand (formerly Athletic Greens).",
     "key_facts": [
       {
         "date": "2026-08-10",
         "fact": "Signed its first-ever football sponsorship: multi-season Championship front-of-shirt deal with Swansea City FC (2026-27), branding across kits, stadium, and digital. Club co-owned by Luka Modrić, Snoop Dogg, and Martha Stewart.",
         "source": "https://www.nutraingredients.com/Article/2026/08/10/ag-1-kicks-off-first-football-collaboration-with-swansea-city-fc/"
+      },
+      {
+        "date": "2026-04-10",
+        "fact": "Reuters reported AG1 is exploring a sale or minority-stake deal (bankers reportedly Goldman Sachs), potentially valuing the company above $2B including debt.",
+        "source": "https://wtvbam.com/2026/04/10/powder-supplement-brand-ag1-explores-options-including-a-sale-sources-say/"
+      },
+      {
+        "date": "2026-04-14",
+        "fact": "Entered Target nationwide, doubling its retail door count and giving its AGZ nighttime product its first retail-shelf placement.",
+        "source": "https://www.modernretail.co/operations/ag1-lands-in-target-as-its-year-of-retail-expansion-continues/"
+      },
+      {
+        "date": "2026-06 (reported Jun 8)",
+        "fact": "Launched AG1 Pro, adding 5g Creavitalis creatine monohydrate plus calcium HMB and zinc carnosine to a new SKU.",
+        "source": "https://athletechnews.com/ag1-launches-all-in-one-creatine-supplement/"
+      },
+      {
+        "date": "2026-08",
+        "fact": "Launched AG1 Essentials Gummies — its first new product format in 16 years — sold via AG1.com and TikTok Shop ($49.95 subscribed / $59.95 one-time for a 30-day supply).",
+        "source": "https://athletechnews.com/ag1-launches-gummies-entering-a-suddenly-crowded-category/"
+      },
+      {
+        "date": "2026-02 (filed)",
+        "fact": "Pending consumer class action Hoke et al. v. AG1 (USA), Inc. (C.D. Cal., No. 26-cv-1110) challenges subscription-disclosure and cancellation-term practices; no FTC action found.",
+        "source": "https://truthinadvertising.org/class-action/ag1-subscriptions/"
       }
     ],
     "geography": "US, UK marketing push via Swansea sponsorship",
     "sources": [
       "https://www.nutraingredients.com/Article/2026/08/10/ag-1-kicks-off-first-football-collaboration-with-swansea-city-fc/",
-      "https://www.swanseacity.com/news/swansea-city-agree-landmark-partnership-ag1"
+      "https://www.swanseacity.com/news/swansea-city-agree-landmark-partnership-ag1",
+      "https://wtvbam.com/2026/04/10/powder-supplement-brand-ag1-explores-options-including-a-sale-sources-say/",
+      "https://www.modernretail.co/operations/ag1-lands-in-target-as-its-year-of-retail-expansion-continues/",
+      "https://www.glossy.co/beauty/inside-ag1s-growth-engine-gummies-canned-drinks-energy-powder-and-much-more-to-come/"
     ]
   },
   "Jamieson Wellness": {
@@ -1308,13 +1355,18 @@
     "category": "pet",
     "status": "discovered",
     "first_seen": "2026-09-21",
-    "last_checked": "2026-09-21",
+    "last_checked": "2026-10-19",
     "profile": "Pet-supplement brand acquired by General Mills in 2023 (undisclosed amount), operated as part of General Mills' pet-nutrition/growth-fund initiatives. Sells supplements for dogs and cats direct via ferapets.com and Amazon.",
     "key_facts": [
       {
         "date": "2026-08 (unveiled at SUPERZOO 2026)",
         "fact": "Launched 'Longevity for Dogs,' a daily soft chew targeting mitochondrial function, brain health, and cellular resilience — active ingredients include NMN (NAD+ precursor), MitoPrime ergothioneine, phosphatidylserine, resveratrol, and MCT oil. Coverage recirculated in PetfoodIndustry's Sept 11-17, 2026 weekly digest, which is how this run's discovery scan surfaced it.",
         "source": "https://www.petfoodindustry.com/pet-food-market/product-launches/news/15835054/fera-pets-launches-longevity-supplement-for-dogs"
+      },
+      {
+        "date": "2026-10-14",
+        "fact": "Launched 'Healthy Weight & Muscles for Dogs,' a weight-management/lean-muscle supplement — launched the same week as a directly competing product (Pet HealthWorks' Good Fitness).",
+        "source": "https://www.petfoodindustry.com/pet-food-product-database/consumer/dog-treats-biscuits-jerky/product/15837449/fera-pet-organics-fera-pets-healthy-weight-muscles-for-dogs"
       }
     ],
     "geography": "US",
@@ -1741,6 +1793,44 @@
     "geography": "US (unconfirmed HQ)",
     "sources": [
       "https://thingtesting.com/brands/winks"
+    ]
+  },
+  "Pet HealthWorks": {
+    "display_name": "Pet HealthWorks",
+    "category": "pet",
+    "status": "discovered",
+    "first_seen": "2026-10-19",
+    "last_checked": "2026-10-19",
+    "profile": "US pet-supplement company; maker of the Antinol Plus joint supplement and an 'active-aging' product line. President named as Ofelia Silva. No further company background (founding date, HQ, funding/ownership) found this run. Found via Section 1a discovery scan, 2026-10-19 run.",
+    "key_facts": [
+      {
+        "date": "2026-10-14",
+        "fact": "Launched Good Fitness, a peanut-butter-flavored dual-action soft chew (myHMB, L-carnitine, vitamin D3) targeting fat metabolism and lean muscle together, made via cold-extrusion process; joins the Antinol Plus joint supplement in the company's active-aging line. Launched the same week as a directly competing product from Fera Pets (Healthy Weight & Muscles for Dogs).",
+        "source": "https://www.petfoodindustry.com/pet-food-market/product-launches/news/15837451/pet-healthworks-launches-dog-weight-and-muscle-supplement"
+      }
+    ],
+    "geography": "US",
+    "sources": [
+      "https://www.petfoodindustry.com/pet-food-market/product-launches/news/15837451/pet-healthworks-launches-dog-weight-and-muscle-supplement"
+    ]
+  },
+  "Shevega": {
+    "display_name": "Shevega",
+    "category": "pet",
+    "status": "discovered",
+    "first_seen": "2026-10-19",
+    "last_checked": "2026-10-19",
+    "profile": "UK vegan dog-supplement brand, founded 2019 by a veterinary nutritionist and a lawyer. UK-manufactured, Vegan Society trademark-certified powdered supplements meant to sit alongside commercial or homemade dog food; emphasizes veterinary expertise and personalized nutrition plans. Lower-confidence entry — single secondary source found this run, exact campaign/launch date unconfirmed (not claimed as in-window). Found via Section 1a discovery scan, 2026-10-19 run.",
+    "key_facts": [
+      {
+        "date": "unconfirmed, 2026",
+        "fact": "Running a public crowdfunding campaign (7 reward tiers, £10-£1,000; top tier includes an advisory-board seat) to fund expanded production.",
+        "source": "https://vegconomist.com/investments-finance/uk-vegan-pet-supplement-brand-shevega-launches-crowdfunding-campaign/"
+      }
+    ],
+    "geography": "UK",
+    "sources": [
+      "https://vegconomist.com/investments-finance/uk-vegan-pet-supplement-brand-shevega-launches-crowdfunding-campaign/"
     ]
   }
 }
