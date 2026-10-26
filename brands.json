@@ -4,7 +4,7 @@
     "category": "human",
     "status": "anchor",
     "first_seen": "2026-08-10",
-    "last_checked": "2026-10-19",
+    "last_checked": "2026-10-26",
     "profile": "UK (London-based) functional-beverage brand — premium coffee and ceremonial matcha fortified with added nutrients (collagen or vegan collagen, creatine, 21 vitamins/minerals). Add-on line includes creatine powder, fiber powder, functional mushrooms (Lion's Mane, Tremella), and ashwagandha. All-natural, gluten-free, dairy-free, no artificial sweeteners/added sugar. Founded 2024 by Neil Saada and Neil Marrakchi. Added directly by Pavel 2026-08-10 (not yet independently discovered via the weekly scan) — treat as an anchor going forward.",
     "key_facts": [
       {
@@ -31,7 +31,7 @@
     "category": "human",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-10-19",
+    "last_checked": "2026-10-26",
     "profile": "Daily greens gummy brand, founded 2023 by Chad Janis. Scaled to $300M ARR in under 4 years; 95% of customers use the product 4-6x/week; ships 10M gummies/day; in 7,000 retail doors. Product line expanded with Grüns Kids (2024), Nütrops (cognitive, 2024), Immün (immune, 2025), Jüced (energy, 2025).",
     "key_facts": [
       {
@@ -56,7 +56,7 @@
     "category": "human",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-10-19",
+    "last_checked": "2026-10-26",
     "profile": "David Beckham-backed longevity/health-drink brand under parent Prenetics. Flagship product: Daily Ultimate Essentials. Section 2 Brand Spotlight, 2026-08-17 run — see key_facts for the full growth trajectory.",
     "key_facts": [
       {
@@ -129,7 +129,7 @@
     "category": "human",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-10-19",
+    "last_checked": "2026-10-26",
     "profile": "Berlin-founded (2020) DTC functional beverage brand — powdered energy drinks, hydration mixes, iced teas in sachet/tub format, mixed at home. Positions against canned incumbents (Monster, Red Bull) on cost/shipping-weight economics.",
     "key_facts": [
       {
@@ -256,7 +256,7 @@
     "category": "pet",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-10-19",
+    "last_checked": "2026-10-26",
     "profile": "Pet supplement brand (part of H&H Group).",
     "key_facts": [
       {
@@ -285,7 +285,7 @@
     "category": "pet",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-10-19",
+    "last_checked": "2026-10-26",
     "profile": "London-based pet supplement brand, founded 2018 by Christopher Masanto. ~185 employees as of Apr 2026.",
     "key_facts": [
       {
@@ -309,7 +309,7 @@
     "category": "pet",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-10-19",
+    "last_checked": "2026-10-26",
     "profile": "Dog supplement brand based in Kortrijk, Belgium (legal entity Suppy BV). 100%-natural daily chewies for gut flora, skin/coat, teeth, joints, anal glands, and stress/behavior — gluten-free, grain-free. Sells direct via dogsuppy.com and dogsuppy.co.uk, active mainly in Benelux/UK. Resolved 2026-07-26 after being unidentifiable as 'Dog Supply Co.' in prior runs.",
     "key_facts": [
       {
@@ -340,7 +340,7 @@
     "category": "pet",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-10-19",
+    "last_checked": "2026-10-26",
     "profile": "NYC-based dog supplement brand, founded 2020 by James Shalhoub. ~11 employees as of May 2026. Product line: probiotics + multivitamins.",
     "key_facts": [],
     "geography": "US",
@@ -351,7 +351,7 @@
     "category": "pet",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-10-19",
+    "last_checked": "2026-10-26",
     "profile": "Limited public info found so far on baltousa.com, which reads as primarily an orthopedic-bracing brand (knee/elbow/carpal braces for arthritis, CCL tears, hip dysplasia), not a nutritional supplement brand — worth revisiting whether it's the right anchor for this pet-supplement watch list. ESCALATED 2026-09-07: a second, distinct 'Balto' also exists — a French/Benelux-market canine joint-health supplement (omega-3/EPA/DHA/vitamin E for osteoarthritis) sold under the Artonova brand via ortopetshop.com, unrelated to baltousa.com. Two different companies use the name in the pet space. Recommend a decision next run: split into two entries (Balto USA = bracing, Balto/Artonova EU = supplement) or replace baltousa.com as the anchor if it was never actually a supplement brand. Re-checked 2026-10-12: could not independently re-confirm the Artonova/French joint-supplement side of this flag exists at all (searched directly in English and French, zero mentions of 'Artonova' tied to a Balto product found) -- downgrading confidence on that half of the standing disambiguation flag; the US bracing brand (baltousa.com) remains confirmed real. Recommend re-verifying or retiring the Artonova claim next run rather than continuing to carry it unchanged.",
     "key_facts": [
       {
@@ -363,6 +363,11 @@
         "date": "2026-09-07",
         "fact": "Identified a separate, unrelated 'Balto' (Artonova) product — a canine joint-health/osteoarthritis supplement sold in France/Benelux via ortopetshop.com. Distinct legal entity/product from baltousa.com's bracing line.",
         "source": "https://www.ortopetshop.com/food-supplements/294-balto-artonova-support-of-joint-metabolism-in-case-of-osteoarthritis.html"
+      },
+      {
+        "date": "2026-10-26",
+        "fact": "Re-checked: zero search hits pairing \"Artonova\" with Balto this run (Artonova link increasingly looks unconfirmable/possibly erroneous — third run failing to re-verify it). However, found separate independent evidence that a French-market \"Balto\" dog-supplement line (mobility/itch/digestion/dental, GMP+ certified) is sold via zoomalia.com and discussed on a French pet blog — but Zoomalia's own Balto brand page describes Balto primarily as an Italian-handmade orthopedic brace maker, so this may just be the bracing brand's own supplement line extension, not a third distinct entity. Still unresolved; recommend a French-language search (e.g. site:balto.it complément) next run rather than continuing to carry the Artonova claim unchanged.",
+        "source": "https://www.zoomalia.com/marques/balto-m-2546-1.html"
       }
     ],
     "geography": "unknown (baltousa.com: US bracing); Balto/Artonova: France/Benelux supplement",
@@ -693,7 +698,7 @@
     "category": "human",
     "status": "discovered",
     "first_seen": "2026-08-10",
-    "last_checked": "2026-10-19",
+    "last_checked": "2026-10-26",
     "profile": "Premium/clinical-grade supplement brand, owned by L Catterton (went private 2023). Section 2 Brand Spotlight, 2026-10-19 run — see key_facts for the full growth trajectory.",
     "key_facts": [
       {
@@ -705,6 +710,11 @@
         "date": "2026-10-19",
         "fact": "Section 2 spotlight research: revenue grew from $229M (2022) to a ~$650M run-rate (2026, per CEO Colin Watts) — ~2.8x in four years; DTC customers grew from 4M to 7M over the same period. ~60% of revenue from under-40 buyers. CGO Mary Beech shifted marketing from low-consideration-buyer chasing toward full-funnel brand building (creative campaigns, Reddit AMAs) while keeping a separate Fullscript-powered B2B practitioner channel. Thorne.com subscriptions up ~60% YoY. Balance note: weak 2/5 Trustpilot (77 unsolicited reviews, shipping/CS/cancellation complaints) but A+ BBB; no FTC action or consumer lawsuit found — Thorne itself has sued counterfeit Amazon sellers.",
         "source": "https://www.modernretail.co/marketing/how-thorne-drove-63-growth-in-dtc-sales-after-a-brand-awareness-push/"
+      },
+      {
+        "date": "2026-10-01",
+        "fact": "P&G's acquisition of Thorne officially closed (per P&G's FY2026 10-Q filed with the SEC), at a disclosed $3.9B cash price (vs. the $3.8B figure reported at announcement, Aug 4, 2026).",
+        "source": "https://sec.gov/Archives/edgar/data/0000080424/000008042426000256/pg-20260930.htm"
       }
     ],
     "geography": "US",
@@ -1039,8 +1049,8 @@
     "category": "human",
     "status": "discovered",
     "first_seen": "2026-08-31",
-    "last_checked": "2026-08-31",
-    "profile": "UK publicly-traded sports-nutrition/supplement company (LSE: APN), founded 2014 by Thomas Ryder; went public October 2024. Coleen Rooney is both an investor and brand ambassador. Section 1 headline, 2026-08-31 run.",
+    "last_checked": "2026-10-26",
+    "profile": "UK publicly-traded sports-nutrition/supplement company (LSE: APN), founded 2014 by Thomas Ryder (scaffolding apprentice -> FTSE 250 founder, bootstrapped, no formal business background); went public October 2024. Coleen Rooney is both an equity-holding brand ambassador and investor. Retail/wholesale-led model (not DTC-subscription) spanning UK (Holland & Barrett, Tesco, Asda, JD Sports as a 2021 minority investor) and an aggressive 2026 US/Canada push (Walmart, GNC) via licensing and acquisition. Section 1 headline brand (2026-08-31); promoted to a full Section 2 Brand Spotlight (2026-10-26 run) on the strength of its audited, publicly-reported growth.",
     "key_facts": [
       {
         "date": "2026-08-26",
@@ -1051,13 +1061,21 @@
         "date": "2026 (Aug rollout)",
         "fact": "North American licensing deal with Mondelez International (Sour Patch Kids / Swedish Fish co-branded sports-nutrition line via its ABE brand), rolling out to ~2,200 Walmart and ~1,300 GNC locations; full GNC availability Sept 1, 2026.",
         "source": "https://blog.priceplow.com/supplement-news/applied-nutrition-sour-patch-kids"
+      },
+      {
+        "date": "2026-10-26",
+        "fact": "Section 2 spotlight research: US entry funded via a $16M acquisition of Nutrablend Group (Buffalo, NY manufacturing, up to $300M capacity) plus a North American licensing deal with Mondelez (Sour Patch Kids/Swedish Fish-branded sports nutrition) rolling into ~2,200 Walmart and ~1,300 GNC stores (full GNC availability Sept 1, 2026). Hired ex-THG CMO Sophie Pugh (Oct 2025) to run global marketing. Coleen Rooney has increased her shareholding (Feb 2026) rather than just drawing an ambassador fee -- an equity-aligned endorsement structure. No subscription/retention data found or expected to exist -- this is a retail/wholesale distribution business, not a DTC-subscription model, which is itself part of what differentiates it from most brands this brief covers. Balance note: Trustpilot ~4.5/5 across ~4,200 reviews, overwhelmingly positive (mild delivery/customs complaints only); no lawsuits or FTC action found.",
+        "source": "https://www.thegrocer.co.uk/events/the-grocer-gold-awards-2025-applied-nutrition-cracks-tough-us-sports-market/706413.article"
       }
     ],
     "geography": "UK, with US manufacturing (Nutrablend) and North American retail (Walmart, GNC)",
     "sources": [
       "https://www.grocerygazette.co.uk/2026/08/26/applied-nutrition-posts-strong-full-year-results-raises-outlook/",
       "https://businesscloud.co.uk/news/applied-nutrition-beats-forecasts-as-it-eyes-1bn-milestone/",
-      "https://www.investegate.co.uk/announcement/rns/applied-nutrition-plc--apn/fy26-trading-update/9739893"
+      "https://www.investegate.co.uk/announcement/rns/applied-nutrition-plc--apn/fy26-trading-update/9739893",
+      "https://www.foodmanufacture.co.uk/Article/2026/06/01/applied-nutrition-has-bought-a-us-sport-nutrition-firm/",
+      "https://businesscloud.co.uk/live-blog/rooney-increases-shareholding-in-applied-nutrition/",
+      "https://en.wikipedia.org/wiki/Applied_Nutrition"
     ]
   },
   "Host Defense": {
@@ -1891,5 +1909,50 @@
       "https://pulse2.com/neutonic-6-million-raised-at-60-million-valuation-to-accelerate-global-retail-expansion/",
       "https://uk.trustpilot.com/review/neutonic.com"
     ]
+  },
+  "GREENIES (dog supplement sub-line)": {
+    "display_name": "GREENIES (dog supplement sub-line)",
+    "category": "pet",
+    "status": "discovered",
+    "first_seen": "2026-10-26",
+    "last_checked": "2026-10-26",
+    "profile": "GREENIES is an established major pet-treat brand (Mars Petcare); surfaced in this run's discovery scan as reportedly launching a dedicated dog-SUPPLEMENT sub-line (Hip & Joint, Immune Health, Skin & Coat) distinct from its core dental-treat business. LOW CONFIDENCE -- single-source, unverified via a primary announcement; flagged for direct confirmation next run before treating as settled.",
+    "key_facts": [
+      {
+        "date": "unconfirmed, ~2026",
+        "fact": "Reportedly launching Hip & Joint, Immune Health, and Skin & Coat supplement sub-lines -- found via discovery search, not yet corroborated by a primary source (press release, retailer listing).",
+        "source": "unconfirmed — surfaced via discovery search, not independently verified"
+      }
+    ],
+    "geography": "US (Mars Petcare)",
+    "sources": []
+  },
+  "Doodlebone / Nuri": {
+    "display_name": "Doodlebone / Nuri",
+    "category": "pet",
+    "status": "discovered",
+    "first_seen": "2026-10-26",
+    "last_checked": "2026-10-26",
+    "profile": "Doodlebone is a UK pet-accessories brand reportedly moving into supplements under a new sub-brand, \"Nuri.\" LOW CONFIDENCE -- single-source discovery-scan finding, no further detail (product line, launch date, pricing) confirmed yet.",
+    "key_facts": [],
+    "geography": "UK",
+    "sources": []
+  },
+  "Supply6": {
+    "display_name": "Supply6",
+    "category": "human",
+    "status": "discovered",
+    "first_seen": "2026-10-26",
+    "last_checked": "2026-10-26",
+    "profile": "Bengaluru-based (India) D2C human-nutrition brand. Surfaced in this run's discovery scan via a single source (Seedtable); not corroborated elsewhere yet.",
+    "key_facts": [
+      {
+        "date": "2026-07-01",
+        "fact": "Closed a $5M growth round (per Seedtable) -- single-source, not independently corroborated.",
+        "source": "https://seedtable.com/"
+      }
+    ],
+    "geography": "India",
+    "sources": []
   }
 }
