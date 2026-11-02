@@ -4,7 +4,7 @@
     "category": "human",
     "status": "anchor",
     "first_seen": "2026-08-10",
-    "last_checked": "2026-10-26",
+    "last_checked": "2026-11-02",
     "profile": "UK (London-based) functional-beverage brand — premium coffee and ceremonial matcha fortified with added nutrients (collagen or vegan collagen, creatine, 21 vitamins/minerals). Add-on line includes creatine powder, fiber powder, functional mushrooms (Lion's Mane, Tremella), and ashwagandha. All-natural, gluten-free, dairy-free, no artificial sweeteners/added sugar. Founded 2024 by Neil Saada and Neil Marrakchi. Added directly by Pavel 2026-08-10 (not yet independently discovered via the weekly scan) — treat as an anchor going forward.",
     "key_facts": [
       {
@@ -31,7 +31,7 @@
     "category": "human",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-10-26",
+    "last_checked": "2026-11-02",
     "profile": "Daily greens gummy brand, founded 2023 by Chad Janis. Scaled to $300M ARR in under 4 years; 95% of customers use the product 4-6x/week; ships 10M gummies/day; in 7,000 retail doors. Product line expanded with Grüns Kids (2024), Nütrops (cognitive, 2024), Immün (immune, 2025), Jüced (energy, 2025).",
     "key_facts": [
       {
@@ -43,6 +43,11 @@
         "date": "2026-08-31",
         "fact": "Background (pre-window, surfaced 2026-10-05 run): proposed class action (Ulberg et al. v. Gruns Nutrition, Inc. et al., D.N.J., case 2:26-cv-11269) alleges deceptive 'sugar-free' labeling over allulose content, naming both Gruns and Unilever.",
         "source": "https://www.nosh.com/news/2026/gruns-becomes-latest-cpg-brand-sued-over-sugar-free-allulose-claims/"
+      },
+      {
+        "date": "2026-11-02",
+        "fact": "Flag, not confirmed: a single secondary source (Wikipedia) claims the Unilever acquisition officially closed June 1, 2026. Not corroborated by any Unilever press release or major outlet found this run — the existing 'Acquired by Unilever' framing above should be read with this caveat until independently confirmed.",
+        "source": "unconfirmed — Wikipedia only, flagged not reported as fact"
       }
     ],
     "geography": "US",
@@ -56,7 +61,7 @@
     "category": "human",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-10-26",
+    "last_checked": "2026-11-02",
     "profile": "David Beckham-backed longevity/health-drink brand under parent Prenetics. Flagship product: Daily Ultimate Essentials. Section 2 Brand Spotlight, 2026-08-17 run — see key_facts for the full growth trajectory.",
     "key_facts": [
       {
@@ -129,7 +134,7 @@
     "category": "human",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-10-26",
+    "last_checked": "2026-11-02",
     "profile": "Berlin-founded (2020) DTC functional beverage brand — powdered energy drinks, hydration mixes, iced teas in sachet/tub format, mixed at home. Positions against canned incumbents (Monster, Red Bull) on cost/shipping-weight economics.",
     "key_facts": [
       {
@@ -256,7 +261,7 @@
     "category": "pet",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-10-26",
+    "last_checked": "2026-11-02",
     "profile": "Pet supplement brand (part of H&H Group).",
     "key_facts": [
       {
@@ -285,7 +290,7 @@
     "category": "pet",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-10-26",
+    "last_checked": "2026-11-02",
     "profile": "London-based pet supplement brand, founded 2018 by Christopher Masanto. ~185 employees as of Apr 2026.",
     "key_facts": [
       {
@@ -297,11 +302,17 @@
         "date": "2026-10-13",
         "fact": "Launched NeuraBlend Calming Chew, its first calming product — a melatonin-free, pork-flavored daily soft chew with 10 active ingredients (incl. PRIOME MW postbiotic, KSM-66 ashwagandha) targeting gut-brain, stress-response, neurotransmitter, and botanical pathways; positioned ahead of holiday travel/fireworks season.",
         "source": "https://business-news-today.com/petlabco-enters-the-dog-calming-market-with-10-ingredient-neurablend-as-holiday-travel-approaches/"
+      },
+      {
+        "date": "2026-10-27",
+        "fact": "Expanded distribution into all 1,500+ U.S. PetSmart stores nationwide with four SKUs: Tailored Probiotic Chews, ProBright dental powder, Joint Care Chew Advanced, and Tailored Allergy & Immune Probiotic Chews.",
+        "source": "https://www.prnewswire.com/news-releases/petlabco-expands-distribution-into-1-500-petsmart-stores-across-america-302921029.html"
       }
     ],
     "geography": "UK",
     "sources": [
-      "https://www.bcpartners.com/news/bc-partners-acquires-a-majority-stake-in-premium-animal-health-brand-petlab-co/"
+      "https://www.bcpartners.com/news/bc-partners-acquires-a-majority-stake-in-premium-animal-health-brand-petlab-co/",
+      "https://www.petfoodprocessing.net/articles/21036-petlabco-hits-petsmart-shelves"
     ]
   },
   "DogSuppy": {
@@ -309,7 +320,7 @@
     "category": "pet",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-10-26",
+    "last_checked": "2026-11-02",
     "profile": "Dog supplement brand based in Kortrijk, Belgium (legal entity Suppy BV). 100%-natural daily chewies for gut flora, skin/coat, teeth, joints, anal glands, and stress/behavior — gluten-free, grain-free. Sells direct via dogsuppy.com and dogsuppy.co.uk, active mainly in Benelux/UK. Resolved 2026-07-26 after being unidentifiable as 'Dog Supply Co.' in prior runs.",
     "key_facts": [
       {
@@ -340,7 +351,7 @@
     "category": "pet",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-10-26",
+    "last_checked": "2026-11-02",
     "profile": "NYC-based dog supplement brand, founded 2020 by James Shalhoub. ~11 employees as of May 2026. Product line: probiotics + multivitamins.",
     "key_facts": [],
     "geography": "US",
@@ -351,7 +362,7 @@
     "category": "pet",
     "status": "anchor",
     "first_seen": "2026-07-26",
-    "last_checked": "2026-10-26",
+    "last_checked": "2026-11-02",
     "profile": "Limited public info found so far on baltousa.com, which reads as primarily an orthopedic-bracing brand (knee/elbow/carpal braces for arthritis, CCL tears, hip dysplasia), not a nutritional supplement brand — worth revisiting whether it's the right anchor for this pet-supplement watch list. ESCALATED 2026-09-07: a second, distinct 'Balto' also exists — a French/Benelux-market canine joint-health supplement (omega-3/EPA/DHA/vitamin E for osteoarthritis) sold under the Artonova brand via ortopetshop.com, unrelated to baltousa.com. Two different companies use the name in the pet space. Recommend a decision next run: split into two entries (Balto USA = bracing, Balto/Artonova EU = supplement) or replace baltousa.com as the anchor if it was never actually a supplement brand. Re-checked 2026-10-12: could not independently re-confirm the Artonova/French joint-supplement side of this flag exists at all (searched directly in English and French, zero mentions of 'Artonova' tied to a Balto product found) -- downgrading confidence on that half of the standing disambiguation flag; the US bracing brand (baltousa.com) remains confirmed real. Recommend re-verifying or retiring the Artonova claim next run rather than continuing to carry it unchanged.",
     "key_facts": [
       {
@@ -1953,6 +1964,88 @@
       }
     ],
     "geography": "India",
+    "sources": []
+  },
+  "TruHeight": {
+    "display_name": "TruHeight",
+    "category": "human",
+    "status": "discovered",
+    "first_seen": "2026-11-02",
+    "last_checked": "2026-11-02",
+    "profile": "Kids'/teen height-growth supplement brand (legal entity Vanilla Chip LLC), Las Vegas HQ, founded 2019 by Eden Stelmach and Justin Rapoport. Section 2 Brand Spotlight, 2026-11-02 run. Breakout 2026 built on TikTok Shop virality plus a fast single-SKU-DTC-subscription to mass-retail to adjacent-category (functional food) pivot, compressed into ~7 months. Significant regulatory counterweight: FTC enforcement action over unsubstantiated height-growth claims and fake reviews (see key_facts) — not a pure growth-success story.",
+    "key_facts": [
+      {
+        "date": "2026-08",
+        "fact": "Named #1-selling kids' supplement brand on TikTok Shop (Kalodata data, cited by trade press); company claims TikTok Shop monthly revenue 'more than doubled.'",
+        "source": "https://chaindrugreview.com/truheight-named-the-1-selling-kids-supplement-brand-on-tiktok-shop/"
+      },
+      {
+        "date": "2026-06",
+        "fact": "Launched nationwide into ~5,000 CVS stores.",
+        "source": "https://chaindrugreview.com/truheight-launches-in-5-000-cvs-stores-nationwide/"
+      },
+      {
+        "date": "2026-07-21",
+        "fact": "Joined Nordstrom and JCPenney marketplaces.",
+        "source": "https://www.easternprogress.com/truheight-joins-nordstrom-and-jcpenney-marketplaces-as-wellness-brands-reshape-the-department-store/article_68186c98-36cd-51ea-adf0-4e0bf2607c8d.html"
+      },
+      {
+        "date": "2026-07-31",
+        "fact": "Extended into functional food with Protein Energy Waffles, timed to 'World Cup summer' youth-sports surge — repositioning as a broader 'family nutrition company.'",
+        "source": "https://youthsportsbusinessreport.com/truheight-expands-into-youth-sports-nutrition-with-protein-waffles-as-fall-registrations-climb/"
+      },
+      {
+        "date": "2026-07 (FTC case announced April 2026)",
+        "fact": "FTC approved a final order against TruHeight/Vanilla Chip LLC over unsubstantiated 'grow up to 6 inches/year' claims, thousands of employee-written fake five-star reviews, and bot social accounts — $750K payment plus a permanent ad-claims bar. Parallel class action (Gonzalez v. Vanilla Chip LLC, SDNY, filed March 2026) alleges the company's own sponsored study showed under-10 control-group kids grew as much or more without the product.",
+        "source": "https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-approves-final-order-against-truheight-deceptive-unsubstantiated-advertising-supplements-kids"
+      },
+      {
+        "date": "2026-11-02",
+        "fact": "Balance note: BBB rating D (36 complaints); Trustpilot mixed ~3.5, recurring subscription-cancellation complaints. A Vitamin Shoppe launch announced Aug 2026 for 'this fall' remains unconfirmed by any newer source.",
+        "source": "https://dk.trustpilot.com/review/truheightvitamins.com"
+      }
+    ],
+    "geography": "US (DTC + mass retail; Trustpilot storefronts exist in DE/CH/DK but no confirmed international retail)",
+    "sources": [
+      "https://chaindrugreview.com/truheight-named-the-1-selling-kids-supplement-brand-on-tiktok-shop/",
+      "https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-approves-final-order-against-truheight-deceptive-unsubstantiated-advertising-supplements-kids",
+      "https://www.classaction.org/media/truheight-complaint.pdf",
+      "https://www.aol.com/boys-falling-truheight-supplement-promising-100007193.html",
+      "https://realreviews.io/reviews/truheightvitamins.com"
+    ]
+  },
+  "Leefar": {
+    "display_name": "Leefar",
+    "category": "human",
+    "status": "discovered",
+    "first_seen": "2026-11-02",
+    "last_checked": "2026-11-02",
+    "profile": "TikTok-viral women's-health brand — GLP-1-support drink mix/gummies. Found via this run's required discovery scan; news is real but pre-dates this week's window.",
+    "key_facts": [
+      {
+        "date": "2025-08",
+        "fact": "Product launched; per a third-party tracker (FastMoss-cited estimate), ~$2.1M GMV over a 28-day period.",
+        "source": "unconfirmed — third-party tracker estimate, not independently corroborated"
+      }
+    ],
+    "geography": "unconfirmed",
+    "sources": []
+  },
+  "Gigi Supplements": {
+    "display_name": "Gigi Supplements",
+    "category": "human",
+    "status": "discovered",
+    "first_seen": "2026-11-02",
+    "last_checked": "2026-11-02",
+    "profile": "Irish women's-health supplement brand. Found via this run's required discovery scan; news is real but pre-dates this week's window.",
+    "key_facts": [
+      {
+        "date": "2026-06-24",
+        "fact": "Closed a €1.5M seed round.",
+        "source": "RDJ (law firm deal announcement) — exact URL not retained, low-confidence single source"
+      }
+    ],
+    "geography": "Ireland",
     "sources": []
   }
 }
